@@ -12,10 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    # working notes: kept off the published site, see also .gitignore
-    - Meta/Open Questions.md
-    - Meta/Changelog.md
-    - Meta/Verification Logs
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
