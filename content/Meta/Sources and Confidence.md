@@ -147,7 +147,7 @@ premade UI settings, and the whole thing was a show floor build tagged
 - [The WoW 'Classic+' rumors were true](https://www.pcgamer.com/games/world-of-warcraft/the-wow-classic-rumors-were-true-world-of-warcraft-forever-promises-to-be-another-timelines-bizzarro-version-of-the-mmo/) — PC Gamer
 - [World Of Warcraft: Forever Revealed As WoW's Rumored Classic+](https://kotaku.com/world-of-warcraft-forever-classic-plus-revealed-2000733774) — Kotaku
 - [World of Warcraft: Forever announced](https://www.mmorpg.com/videos/blizzcon-2026-world-of-warcraft-forever-announced-coming-november-4th-2000138917) — MMORPG.com
-- [WoW Forever's New Skyborne Race Is Locked Behind A $30 Purchase](https://www.mmorpg.com/news/wow-forevers-new-skyborne-race-is-locked-behind-a-30-purchase-2000138919) — MMORPG.com
+- [WoW Forever's New Skyborne Race Is Locked Behind A \$30 Purchase](https://www.mmorpg.com/news/wow-forevers-new-skyborne-race-is-locked-behind-a-30-purchase-2000138919) — MMORPG.com
 
 **Race / class / systems detail**
 - [Warcraft Forever: Classic+ Announced at BlizzCon 2026](https://www.warcrafttavern.com/forever/news/warcraft-forever-classic-announced-at-blizzcon-2026/) — Warcraft Tavern

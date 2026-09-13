@@ -37,7 +37,7 @@ announced at BlizzCon 2026 on **12 September 2026**.
 | [[Talent System]] | Three-tree layout retained; the unexplained Primary/Secondary tabs. |
 | [[Baseline Ability Changes]] | Changes outside the talent trees, read off demo spellbooks. |
 | [[Races, Racials and Combos]] | Full race/class matrix, and the racials read off character creation — gaps flagged. |
-| [[Skyborne]] | The new race: factions, lore, druid forms, the $29.99 paywall. |
+| [[Skyborne]] | The new race: factions, lore, druid forms, the \$29.99 paywall. |
 
 **Per class:** [[Druid]] · [[Hunter]] · [[Mage]] · [[Paladin]] · [[Priest]] · [[Rogue]] ·
 [[Shaman]] · [[Warlock]] · [[Warrior]]
@@ -54,7 +54,7 @@ announced at BlizzCon 2026 on **12 September 2026**.
 | Note | What is in it |
 |---|---|
 | [[Roadmap]] | Every date through summer 2027, plus Sydney conversions. |
-| [[Editions]] | $29.99 / $59.99 / $79.99 and which one actually includes beta. |
+| [[Editions]] | \$29.99 / \$59.99 / \$79.99 and which one actually includes beta. |
 
 ## Meta
 

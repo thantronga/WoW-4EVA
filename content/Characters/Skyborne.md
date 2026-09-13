@@ -93,11 +93,11 @@ Now known — see [[Races, Racials and Combos]] for the full text. Summary:
 
 ## The paywall
 
-[CONFIRMED] Race **and** starting zone are locked behind the **Skyborne Heroic Pack ($29.99 /
+[CONFIRMED] Race **and** starting zone are locked behind the **Skyborne Heroic Pack (\$29.99 /
 €29.99)** or higher. A WoW subscription is required on top. See [[Editions]].
 
 This is drawing the heaviest community pushback of the announcement — "why not High
-Elves/Ogres" and "more elves" are both running jokes, and the $30 race gate for a
+Elves/Ogres" and "more elves" are both running jokes, and the \$30 race gate for a
 Classic+ product got its own critical coverage (MMORPG.com, Blizzard forum threads).
 
 ---

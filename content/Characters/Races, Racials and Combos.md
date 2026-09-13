@@ -39,7 +39,7 @@ dances.
 > other sources including the official Blizzard panel recap say the opposite. Go with
 > **Horde = Shaman, Alliance = Mage**.
 
-**Access is paid.** The Skyborne race unlock requires the **Skyborne Heroic Pack ($29.99)** or
+**Access is paid.** The Skyborne race unlock requires the **Skyborne Heroic Pack (\$29.99)** or
 a higher edition. This drew immediate criticism.
 
 ---
