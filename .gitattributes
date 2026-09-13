@@ -1,1 +1,4 @@
 * text=auto eol=lf
+
+# Batch files must keep CRLF - cmd.exe mishandles LF-only labels and goto
+*.cmd text eol=crlf

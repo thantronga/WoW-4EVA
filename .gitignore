@@ -12,3 +12,9 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+# WoW Forever working notes — the repo is public, so keep these out of git
+# as well as out of the build. Must match ignorePatterns in quartz.config.yaml.
+content/Meta/Open Questions.md
+content/Meta/Changelog.md
+content/Meta/Verification Logs/
