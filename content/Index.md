@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, index, moc]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -12,12 +12,22 @@ announced at BlizzCon 2026 on **12 September 2026**.
 > [!warning] Read this before quoting anything
 > Claims in this vault sit in one of four evidence tiers, and the gap between tier 1 and
 > tier 3 is enormous. **[[Sources and Confidence]]** defines them and lists what is
-> circulating and false. Most of the level brackets, and all the *granular* talent detail,
-> are **not** official — Blizzard's own class material amounts to about six sentences.
+> circulating and false. The level brackets are still **not** official.
+>
+> **Tier 1 grew substantially on 14 Sep**, when the **Deep Dive panel** got its own official
+> Blizzard recap: Camping, Legacy, the **realmless** server model, transmog, combat and
+> itemization, the talent tree structure and the **whole Paladin talent list** are now official.
+> Everything granular about the *other eight classes* is still demo-read Tier 3.
 
 **Key dates** — Beta **17 Sep – 21 Oct 2026**, level 30 cap (two outlets read the slide as
 22 Oct) · Launch **4 Nov 2026, 3pm PST** = 10am Thu 5 Nov AEDT · All three raids **9 Dec 2026**,
-**none at launch** · Level cap **60**. Full detail and Sydney conversions in [[Roadmap]].
+**none at launch** · Level cap **60** · **Hardcore ruleset post-launch**, date unannounced.
+Full detail and Sydney conversions in [[Roadmap]].
+
+> [!info] Forever has **no realms**
+> Announced at the Deep Dive panel: you choose a **ruleset** — Normal, PvP, Roleplaying or
+> Hardcore — not a realm. Collections and Legacy Points are account-wide; Hardcore is enclosed
+> and one-way. See [[Systems]].
 
 ---
 
@@ -46,7 +56,7 @@ announced at BlizzCon 2026 on **12 September 2026**.
 
 | Note | What is in it |
 |---|---|
-| [[Systems]] | Talents, racials, items, Camping, Legacy, transmog, PvP, presentation. |
+| [[Systems]] | Talents, racials, items, **Camping**, **Legacy**, **realmless rulesets**, **combat and itemization**, transmog, PvP, presentation. |
 | [[Design Pillars]] | The four pillars, the positioning as a third WoW, the presenters. |
 
 ## Release
@@ -62,6 +72,7 @@ announced at BlizzCon 2026 on **12 September 2026**.
 |---|---|
 | [[Sources and Confidence]] | The four evidence tiers, source reliability, debunked claims. |
 | [[Open Questions]] | What is still unknown, and the do-not-file contamination list. |
+| [[Deep Dive Panel 2026-09-14]] | The second BlizzCon panel: what it revealed, corrected and closed. **Read this before the older notes.** |
 | [[Verification Log 2026-09-13]] | Full pre-Deep-Dive verification pass: six corrections. |
 | [[Changelog]] | Dated entries from the daily news-diff task. |
 
@@ -69,9 +80,11 @@ announced at BlizzCon 2026 on **12 September 2026**.
 
 ## Watch list
 
-- **Deep Dive panel** — 10am PDT Sun 13 Sep = **03:00 Mon 14 Sep AEST**. Covers Camping,
-  Legacy, systems and rewards, plus Hardcore. **Every note in this vault was written before
-  it.** A scheduled task captures it on the morning of 14 Sep and adds a note to Meta.
+- ~~**Deep Dive panel**~~ — **aired and captured, 14 Sep 2026.** See
+  [[Deep Dive Panel 2026-09-14]]. Notes touched by it carry a dated "Deep Dive" section;
+  notes without one still date from 12–13 Sep.
+- **A separate Hardcore panel** was referenced in the Out of Games live blog. Whether it aired
+  separately, and whether it carried anything the Deep Dive did not, is unestablished.
 - **17 September** — beta opens. Everything in tier 3 should be replaced with datamined
   data within days, and the talent notes revisited wholesale.
 - **Open items** are tracked in [[Open Questions]], not here.

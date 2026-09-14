@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, talents, systems]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -26,6 +26,39 @@ away from small incremental bonuses.
 
 ---
 
+## Structure — confirmed at the Deep Dive panel, 14 Sep 2026
+
+[CONFIRMED / Tier 1] The [[Deep Dive Panel 2026-09-14|Deep Dive panel]] stated the tree
+structure outright for the first time, via **Principal Game Designer Kris Zierhut**:
+
+- **Three trees per class. Seven rows.** Same as Classic — this retires the assumption.
+- One-point **"gold medal" talents at 11, 21 and 31 points**, as in Classic.
+- **New: a fourth gold-medal talent at 16 points, in every one of the 27 trees.**
+
+> "All classes still have three talent trees, they still have seven rows, they still have those
+> one point talents at 11, 21, 31, the gold medal talents […] We've even added a fourth gold
+> medal talent at the 16 mark at every single one of the talent trees."
+
+**No names were given for any of the 27 new 16-point talents.** The extraction did not isolate
+them either, so they are unidentified.
+
+Also stated: some talents are **exactly as patch 1.12**, others adjusted or improved; and
+**Divine Spirit, Blessing of Kings and Improved Mark of the Wild are now baseline** rather than
+talents. The demo build had already shown Blessing of Kings baseline on the Paladin — this
+generalises it. Stated balance goal: all **27 specs** viable for group content without creating
+incentives to stack duplicates.
+
+> [!note] The point budget is still not stated
+> Blizzard did not say how many talent points a level-60 character has, and Output Lag
+> explicitly notes the panel gave no information on whether there are enough points to reach
+> all four milestones. The 51-point figure below remains an assumption.
+
+> [!note] 16 appears twice, unrelatedly
+> The new talent milestone is at **16 points**; the Legacy Point spend cap is also **16**. These
+> are different systems and there is no stated connection. Do not read one into the other.
+
+---
+
 ## The "Primary" and "Secondary" tabs
 
 The single most interesting unexplained thing in the announcement.
@@ -45,6 +78,15 @@ Reasonable readings, none confirmed:
 - **A UI artifact** of the demo build that means nothing.
 
 Worth watching for from **17 September**, when the beta client makes this trivially checkable.
+
+> [!important] Still unexplained after the Deep Dive panel — 14 Sep 2026
+> The Deep Dive covered talents at length and **did not mention the tabs**. Output Lag, writing
+> the panel up, notes that the talent window screenshot showed *a locked "Secondary" tab
+> alongside an active "Primary" tab* and that it **remained unexplained**.
+>
+> That the Secondary tab is shown **locked** is a small new detail and mildly favours the dual-
+> spec reading — a locked second page implies something that gets unlocked, rather than a UI
+> artifact. **Still not evidence.** See [[Deep Dive Panel 2026-09-14]].
 
 ---
 
@@ -116,6 +158,17 @@ current seasonal cap of **16 Legacy Points** in total."* Three categories with n
 **Every other node read "Unknown — To be added in future patch content."** So the Legacy Tree
 is real but effectively empty in the demo build.
 
+> [!important] Upgraded to Tier 1 at the Deep Dive panel — 14 Sep 2026
+> The demo build was simply unfinished; the trees have real, named contents. Blizzard confirmed
+> the **three trees** (Adventure, Professions, Resourcefulness), the **16-point spend cap**,
+> named one talent per tree — **Well Rested**, **Bountiful Harvest**, **Reagent Economy** — and
+> stated that points are **shared across alts but spent per character**. Full detail in
+> [[Systems]] and [[Deep Dive Panel 2026-09-14]].
+>
+> The demo tooltip's word **"seasonal"** is now largely explained: 16 is the *launch* spend cap
+> and Blizzard explicitly plans **expanded caps** later. The word itself is still unconfirmed
+> on stage.
+
 **Legacy Challenges** — an achievement-style window, header "Legacy Points 0 / **66**", with a
 category tree: Adventure (Explorer → Eastern Kingdoms, Kalimdor), Classes, Tradeskills, Player
 vs. Player (Ranks, Reputations, Season Journey), Dungeons, Raids. Entries have point values and
@@ -124,7 +177,14 @@ dungeons), *Conqueror of the Wilds* (defeat ~13 encounters in Hyjal Summit), *Co
 Deeps* (Barrow Deeps), *Conqueror of the Lair* (defeat Onyxia).
 
 The word **"seasonal"** in the Legacy Points cap tooltip is doing a lot of work and nobody has
-asked about it.
+asked about it. *(Partly answered 14 Sep — see the callout above.)*
+
+> [!warning] Conflict — 65 or 66 total Legacy Points?
+> The demo build's Legacy Challenges window read **"Legacy Points 0 / 66"**, recorded above.
+> The official Deep Dive recap says the **maximum total earnable at start is 65**. **Prefer 65**
+> — official beats demo-read — but do not treat 66 as debunked until beta settles it. The demo
+> categories themselves (Adventure, Classes, Tradeskills, Player vs. Player, Dungeons, Raids)
+> are corroborated exactly by Output Lag's panel write-up.
 
 ---
 
@@ -138,6 +198,11 @@ asked about it.
   gamepad support. Official.
 - **Ruleset presets** — the demo showed onboarding screens for "Choose Your Experience Preset"
   (Classic / Enhanced) and "Choose Your Gameplay Style" (PvP / PvE / Roleplay / **Hardcore**).
+  **Explained 14 Sep:** the second screen is the **realmless ruleset picker** — Forever has no
+  realms, and you choose Normal / PvP / Roleplaying / Hardcore instead. See [[Systems]]. The
+  demo's "PvE" label corresponds to the official **Normal** ruleset. The *first* screen
+  (Classic / Enhanced) is separate and is now known to drive the transmog default: **Classic
+  Mode disables transmog at launch.**
 - **Character sheet rework** — the demo showed a modern layout with **Spell Damage and Spell
   Healing as separate stats**, plus "Equipment Sets" lines on item tooltips (a Manual Crowd
   Pummeler showed "Equipment Sets: Feral Combat"). If spell damage and healing are separate
@@ -146,4 +211,4 @@ asked about it.
 ---
 
 **Related:** [[Class Changes]] · [[Baseline Ability Changes]] ·
-[[Sources and Confidence]]
+[[Sources and Confidence]] · [[Deep Dive Panel 2026-09-14]] · [[Systems]]

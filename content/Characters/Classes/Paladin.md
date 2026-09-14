@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, class-changes]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -9,6 +9,11 @@ status: pre-beta
 > below is officially documented — the talent detail comes from a community extraction of
 > demo footage, not from Blizzard or from datamining. See [[Sources and Confidence]] for
 > exactly how each claim was established, and treat every number as provisional.
+>
+> **Updated 14 Sep 2026.** Blizzard used Paladin as its worked class example at the
+> [[Deep Dive Panel 2026-09-14|Deep Dive panel]], which **promotes a large slice of the
+> extraction below from Tier 3 to Tier 1**. The official list is in the next section. The
+> caveat above still applies to everything the official list does *not* cover.
 
 # Paladin — WoW Forever
 
@@ -36,6 +41,82 @@ The Paladin talent window was the **only** talent UI shown on stage, and it carr
 
 Also reported from the demo: **Judgement no longer consumes Seals**, **Blessings last 1 hour**,
 and a new melee ability **Holy Strike** that works like Crusader Strike.
+
+---
+
+## What Blizzard said at the Deep Dive panel — 14 Sep 2026
+
+[CONFIRMED / Tier 1] Source: the official Blizzard Deep Dive recap. Paladin was the detailed
+class example, so this is now the best-documented class in Forever by a wide margin.
+
+**Cross-spec**
+
+- **Holy Strike** — level **6**, instant weapon strike dealing **Holy damage**, **12-second
+  cooldown**. Available to all Paladins.
+- **Seals are no longer consumed by casting Judgment.** *(Was Tier 2. Now Tier 1.)*
+- **Seal of Fury** — the Protection seal. **Favours fast weapons**, grants **small absorb
+  shields**, and **Judgment causes a taunt while it is active**. *(Was Tier 3. Now Tier 1.)*
+- **Consecration** — **baseline at level 20**. High damage and threat on the **first four
+  targets**, lower beyond that. *(Baseline status was Tier 3; the four-target rule is new.)*
+
+**Holy**
+
+| Talent | What Blizzard said | Vault status before |
+|---|---|---|
+| **Improved Holy Strike** | Reduces Holy Strike's cooldown | Had it (Holy r1c1) |
+| **Voice of Truth** | Temporary immunity to Silence and Interrupts | Had it (Holy r3c1) |
+| **Reverence** | Mana regeneration from Spirit while casting | Had it (Holy r3c2) |
+| **Infusion of Light** | Holy Shock / Flash of Light crits reduce Holy Light cast time | **Not in the extraction at all** |
+| **Holy Shock** | **10-second cooldown** | Had the talent, not the cooldown |
+| **Consecrated Ground** | Enemies standing in Consecration take increased Holy damage | Had it (Holy r5c3) |
+| **Light's Vigil** | High-cost cooldown; resets Holy Shock *or* triggers damage and party healing | Had it (Holy r7c2) |
+
+**Protection**
+
+| Talent | What Blizzard said | Vault status before |
+|---|---|---|
+| **Improved Seal of Fury** | Mana when your absorbs take damage | Had it (Prot r3c1) |
+| **Shield Specialization** | Additional Mana on blocks | Had it, matching |
+| **Swift Judgment** | Resets Judgment once per minute | Had it as **Swift Judgement** (spelling) |
+| **Templar's Bulwark** | Absorb shield based on maximum health | Had it (Prot r5c2) |
+| **Reckoning** | **Redesigned for crit-immune tanks**; triggers from **blocks** | Had the redesign; the *rationale* is new |
+| **Iron Creed** | Timed Holy Strikes reduce incoming damage | Had it (Prot r6c3) |
+
+**Retribution** — the tree the extraction covered **worst** (4 unread cells). Blizzard's list:
+
+| Talent | What Blizzard said | Vault status before |
+|---|---|---|
+| **Vindication** | Reduces the enemy's Attack Power and increases the Paladin's own | Had it, matching |
+| **Sacred Arbiter** | Empowers Holy Strike; refreshes Judgments | Had it (Ret r4c3) |
+| **Champion of the Light** | Spell damage based on Intellect | Had it (Ret r6c2) |
+| **Instrument of the Law** | Reduces threat generation; makes Holy Wrath instant | Had it as **Instrument of Law** (spelling) |
+| **Twist of Light** | New Seal echoes to your next swing — **seal twisting without add-ons** | Had it (Ret r7c2) |
+
+**Retained limitations, stated deliberately**
+
+- **No interrupt ability.**
+- Limited target-slowing options.
+- Taunt comes through the **Seal/Judgment system**, not a single button.
+- Strong against **Undead and Demons** (Exorcism, Holy Wrath, Turn Undead); fewer ranged options
+  against everything else.
+
+Design goal, in Blizzard's words: make Paladins effective as tanks, healers or Retribution melee
+damage dealers *"without smoothing away the edges that make the class feel distinct."*
+
+> [!important] What this does to confidence in the rest of this vault
+> Nineteen of the twenty items Blizzard named were **already in the extraction, under the same
+> names, doing the same things** — including four of the five Retribution talents in the tree
+> the extraction covered worst. One talent (**Infusion of Light**) was missed entirely, and two
+> names differ by a letter. That is a strong external validation of the Tier 3 method for
+> *talent names and rank-1 effects*.
+>
+> It validates **nothing** about ranks 2+, which remain largely extrapolated. See
+> [[Sources and Confidence]].
+
+> [!note] Two spelling mismatches
+> The extraction's **Swift Judgement** and **Instrument of Law** appear officially as
+> **Swift Judgment** and **Instrument of the Law**. Same talents; the official spelling wins.
+> Names below have been left as the extraction read them so the provenance stays traceable.
 
 ## What the data shows
 

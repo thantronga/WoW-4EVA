@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, raids, content]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -24,6 +24,16 @@ unlock December 9, Onyxia's Lair at 40 players"*), Icy Veins, Blizzard Watch and
 
 Both new raids bring **new tier sets** and an **unrevealed legendary reward** ("the first new
 legendary").
+
+> [!note] Still unrevealed after the Deep Dive panel — 14 Sep 2026
+> The Deep Dive covered itemization in detail — merged hit and crit, hundreds of new dungeon
+> drops, expanded quest rewards, blue-quality unique boss items — and **said nothing about the
+> legendary, the tier sets, or the Demon Hunter prisoner**. The What's Next phrasing, *"a
+> legendary reward we're looking forward to revealing in full"*, still stands as the only
+> statement on it. See [[Deep Dive Panel 2026-09-14]] and [[Systems]].
+>
+> **Entrance 3 also remains unlocated**, and the **Summer 2027 revamped iconic raid** is still
+> unnamed.
 
 Clay Stone (Associate Production Director) on the original raids: they *"have not opened yet"*,
 with a **staged rollout** intended. He also said **"nothing is off the table, not even a new
@@ -70,4 +80,5 @@ From the [[Roadmap]]:
 ---
 
 **Related:** [[Dungeons]] · [[Zones]] · [[Roadmap]] · [[Open Questions]] ·
+[[Deep Dive Panel 2026-09-14]] ·
 [[Sources and Confidence]]

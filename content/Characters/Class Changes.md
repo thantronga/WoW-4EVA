@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, class-changes, index]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -11,8 +11,13 @@ official "Classic+", announced at BlizzCon 2026 on **12 September 2026** — one
 note was written.
 
 > [!warning] Confidence warning — read [[Sources and Confidence]] before quoting anything
-> Blizzard has published **almost no class detail**. The official material amounts to about
-> six sentences, all about Paladins and general philosophy. Everything granular below comes
+> **Updated 14 Sep 2026.** This was true until the Deep Dive panel of 14 Sep
+> ([[Deep Dive Panel 2026-09-14]]), which published a **full official Paladin talent list**, the **talent tree
+> structure**, and **combat/itemization** detail. Paladin is now largely Tier 1; the other
+> eight classes are unchanged and the warning below still applies to them in full.
+>
+> Blizzard had published **almost no class detail** before that. The official material amounted
+> to about six sentences, all about Paladins and general philosophy. Everything granular below comes
 > from a **community extraction of BlizzCon demo footage** — a vision model reading talent
 > tooltips one hover at a time off a Twitch stream. It is impressively rigorous for what it
 > is, and it is still not datamining. Beta starts **17 Sep 2026**; real data lands days after.
@@ -31,7 +36,8 @@ note was written.
 | **Classes** | The same **nine**. No new class. |
 | **New race** | **Skyborne** (Highborne-descended wind elves). Paid unlock. |
 | **New race/class combos** | 8 core + Skyborne — see [[Races, Racials and Combos]] |
-| **Talent system** | Classic three-tree layout retained; 51 points assumed; **"Primary" and "Secondary" tabs** seen but unexplained |
+| **New race/class combos (official count)** | **Six**, named at the Deep Dive panel — see the conflict note in [[Races, Racials and Combos]] |
+| **Talent system** | Three trees, seven rows — **confirmed** 14 Sep. Gold-medal talents at 11/21/31 **plus a new one at 16 in all 27 trees**. 51 points still only assumed; **"Primary" and "Secondary" tabs** seen but **still unexplained** |
 | **New specs / hero talents** | **No.** The "new Shaman and Warlock specs" claim is a debunked fake leak. |
 
 ---
@@ -51,6 +57,31 @@ Quoting the official panel recap and Lead Software Engineer **Nora Mills**:
 > Druids get **new forms**, including forms built specifically for the Skyborne race.
 
 > Racial abilities are being reworked to feel **"more unique than before."**
+
+### Added by the Deep Dive panel — 14 Sep 2026 (Tier 1)
+
+Principal Game Designer **Kris Zierhut** and the official recap:
+
+> Three talent trees, seven rows, gold-medal talents at 11/21/31 — and **a fourth gold-medal
+> talent at 16 points in every one of the 27 trees**. No names given.
+
+> **Divine Spirit, Blessing of Kings and Improved Mark of the Wild are now baseline**, not
+> talents.
+
+> Some talents are exactly as **patch 1.12**; others adjusted or improved.
+
+> Balance goal: all **27 specs** viable for group content, without incentives to stack
+> duplicates.
+
+> Combat should stay *"deliberate, tactical, and class-driven"* — a solo creature takes
+> **10–15 seconds**, crowd control and threat stay essential.
+
+> **Hit chance is one stat and critical strike chance is one stat**, merged across spell, melee
+> and ranged. Healing specs get **one-third of bonus healing as bonus damage**. See
+> [[Systems]].
+
+Plus a **full official Paladin talent list** — see [[Paladin]], which is now the only class in
+this vault with substantial Tier 1 coverage.
 
 Everything else marked as fact below is *observed in the demo build*, which is a weaker claim
 than *announced by Blizzard* and a weaker claim again than *shipped*.
@@ -132,14 +163,20 @@ Holy Priest — changed least.
 ## Open questions nobody can answer yet
 
 1. **What are the "Primary" and "Secondary" tabs** in the talent window? See
-   [[Talent System]]. Nothing in the extracted data sits on a Secondary page.
+   [[Talent System]]. Nothing in the extracted data sits on a Secondary page. **Still open after
+   the Deep Dive panel** — it covered talents at length and did not mention them. Output Lag
+   notes the Secondary tab is shown **locked**.
 2. **Is the point total still 51?** It is assumed, not observed. 13 of 27 trees in the
    extraction cannot absorb 51 points at the rank counts read, which is either a data error
    or evidence the rules changed.
 3. **Does Frostfire Bolt exist?** Mage's *Missile Barrage* names it; nothing else does.
 4. **Did Omen of Clarity, Pyroblast, Adrenaline Rush and Elemental Mastery survive?** All are
    missing from the read data, all sit in trees with coverage gaps.
-5. **Itemization and tier sets** were mentioned in the panel with no detail.
+5. ~~**Itemization and tier sets** were mentioned in the panel with no detail.~~
+   **Itemization answered 14 Sep** — merged hit and crit, weapon skill reduced per item,
+   hundreds of new drops, new situational stats. See [[Systems]]. **Tier sets are still
+   undetailed.**
+6. **What are the 27 new 16-point talents?** The milestone is confirmed; not one name is known.
 
 ---
 
@@ -149,3 +186,4 @@ Holy Priest — changed least.
 - [[Races, Racials and Combos]] — the full matrix, every racial, Skyborne
 - [[Baseline Ability Changes]] — new spells outside the talent trees
 - [[Sources and Confidence]] — **how each claim was established, and what to distrust**
+- [[Deep Dive Panel 2026-09-14]] — the second BlizzCon panel, and what it changed

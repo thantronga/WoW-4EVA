@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, races, racials]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -65,6 +65,17 @@ screen, and corroborated by two independent outlets.
 So: **eight new core combinations** — Human Hunter, Dwarf Shaman, Gnome Priest, Orc Mage, Troll
 Warlock, Undead Paladin — plus ten Skyborne combinations.
 
+> [!warning] Conflict — six or eight? Official says six. Corrected 14 Sep 2026.
+> The official [[Deep Dive Panel 2026-09-14|Deep Dive]] recap names **six** new race/class
+> combinations and no more: **Gnome Priest, Human Hunter, Dwarf Shaman, Orc Mage, Troll
+> Warlock, Undead Paladin.** More are said to be planned for future updates.
+>
+> That is exactly the six this note itself lists by name — the sentence above says "eight" and
+> then enumerates six, so **"eight" looks like a counting error in this note**, not evidence of
+> two further combos. **Prefer six.** The matrix above is left as read off the demo class bar so
+> the provenance stays traceable; if the demo bar really did light up two more, beta will show
+> which.
+
 **Undead Paladin is the one to flag.** It was **not** observed on screen: the Undead race panel
 never appeared in the demo footage. It is reported by multiple outlets, and Blizzard reportedly
 revealed it via a **new cinematic**. Confident, but sourced differently from the rest.
@@ -80,6 +91,12 @@ does not show it. Treat as unconfirmed.
 Read from character creation panels. Roughly **60% of racial traits are new or reworked**.
 Passives marked *(P)*.
 
+> [!info] Structure confirmed 14 Sep 2026 (Tier 1)
+> The Deep Dive panel confirmed the shape this note read off the demo: **two active and two
+> passive abilities per race**, with similar offensive power across races but signature utility
+> preserved. Official ability text was given for **Dwarf and Undead only** — both are marked
+> below. Everything else on this page is still demo-read.
+
 ### Alliance
 
 **Human**
@@ -90,11 +107,14 @@ Passives marked *(P)*.
 - *The Human Spirit (P)* — +5% Spirit
 - *(Mace Specialization and Diplomacy were not visible on screen)*
 
-**Dwarf**
-- *Stoneform* — immunity to Bleeds, Poisons and Diseases **and** reduced physical damage taken
-  for 8 sec. **Reworked** (Classic gave +10% armour)
-- *Find Treasure* — tracks nearby treasure chests
-- *Mace Specialization (P)* — maces increase spell and ability crit by 1%. **Reworked**
+**Dwarf** — **officially confirmed at the Deep Dive panel, 14 Sep 2026 (Tier 1)**
+- *Stoneform* — **removes and grants immunity to** Bleeds, Poisons and Diseases **and** reduces
+  physical damage taken, for 8 sec. **Reworked** (Classic gave +10% armour)
+- *Find Treasure* — tracks nearby treasure chests, and **can remain active alongside other
+  tracking abilities**. *(The stacking behaviour is new — the demo read did not capture it, and
+  it is a real quality-of-life change: in Classic, Find Treasure competed with Track Humanoids.)*
+- *Mace Specialization (P)* — maces increase crit with **all spells and abilities** by 1%.
+  **Reworked**
 - *Big Game Hunter (P)* — +5% damage to Beasts
 
 **Night Elf**
@@ -128,12 +148,21 @@ Passives marked *(P)*.
 - *Hardiness (P)* — stun duration reduced by 20% (Classic: 25%)
 - *Command* appears to be **gone**
 
-**Undead**
-- *Will of the Forsaken* — removes charm, fear and sleep
-- *Cannibalize* — consume corpses for 35% health **and mana**. Reworked
-- *Underwater Breathing (P)* — +300% underwater breath
-- *Touch of the Grave (P)* — **New**: your attacks sometimes drain health. A later-expansion
-  racial backported
+**Undead** — **officially confirmed at the Deep Dive panel, 14 Sep 2026 (Tier 1)**
+- *Will of the Forsaken* — removes Charm, Fear and Sleep. **It no longer grants immunity** —
+  stated explicitly. This is a straight nerf to the strongest PvP racial in Classic.
+- *Cannibalize* — restores **Mana and Health**. Reworked. *(Demo read: 35% health and mana. The
+  official text gives no percentage, so the number stays Tier 3.)*
+- *Underwater Breathing (P)* — unchanged, and stated to apply to **old and new underwater
+  combat**. *(That phrasing is the only hint anywhere that underwater combat has been reworked.
+  Nothing else in any source mentions it. Watch for it in beta.)*
+- *Touch of the Grave (P)* — **New**: your attacks drain life. A later-expansion racial
+  backported
+
+**Note on the earlier "spells vs attacks" discrepancy.** The verification note at the bottom of
+this page flagged that Blizzard said *Touch of the Grave* drains health from *spells* while the
+demo tooltip said *attacks*. The official Deep Dive text says **attacks**. **Resolved in favour
+of the demo tooltip.**
 
 **Tauren**
 - *War Stomp* — stuns nearby enemies for 2 sec
@@ -209,4 +238,4 @@ said *spells*; the demo tooltip says *attacks*. Minor, unresolved.
 zone between Mulgore and Desolace tied to the Shen'dralar highborne, and a new highborne-
 descended race — is unlikely to be coincidence. Not stated by Blizzard. See [[Skyborne]].
 
-**Related:** [[Skyborne]] · [[Verification Log 2026-09-13]]
+**Related:** [[Skyborne]] · [[Verification Log 2026-09-13]] · [[Deep Dive Panel 2026-09-14]]

@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, races, skyborne]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -72,6 +72,21 @@ the colour and the specific four are third-party observation.
 
 **No tree form shown.** Restoration form remains unrevealed — still open.
 
+> [!important] Still open after the Deep Dive panel — 14 Sep 2026, and the "moonkin" claim is weaker than it looked
+> The Deep Dive panel said nothing about Skyborne druid forms. Wowhead's dedicated article on
+> the subject shows **three** forms and three only:
+>
+> - **Bear Form** — "a hybrid of a bird and a bear"
+> - **Cat Form** — "a hybrid of a bird and a cat, very similar to the Owlcats"
+> - **Travel Form** — a bird form, notable because **there is no flying in Forever**
+>
+> It does **not** mention moonkin, aquatic, flight or Tree of Life. This note previously listed
+> **moonkin** among the four observed forms; that now rests on a single earlier third-party
+> observation rather than a cluster. **Downgrade moonkin to single-source** until beta.
+>
+> **Restoration / Tree of Life remains unrevealed by anyone.** Still open. See
+> [[Deep Dive Panel 2026-09-14]].
+
 ---
 
 ## Racials
@@ -103,4 +118,4 @@ Classic+ product got its own critical coverage (MMORPG.com, Blizzard forum threa
 ---
 
 **Related:** [[Races, Racials and Combos]] · [[Zones]] · [[Editions]] ·
-[[Class Changes]] · [[Sources and Confidence]]
+[[Class Changes]] · [[Sources and Confidence]] · [[Deep Dive Panel 2026-09-14]]

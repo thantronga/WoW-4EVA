@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, meta, sources]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -20,7 +20,17 @@ the gap between tier 1 and tier 3 is enormous.
 Official statements from the BlizzCon 2026 "What's Next" panel recap, the Deep Dive panel, and
 the pre-purchase announcement. Safe to state as fact, subject to normal pre-launch change.
 
-**This tier is very small.** The complete official class content is roughly:
+> [!important] Tier 1 grew substantially on 14 Sep 2026
+> The **Deep Dive panel** has its own official Blizzard recap (article **24303313**). It moved
+> Camping, Legacy, the realmless server model, transmog, combat and itemization, the talent
+> tree structure, Dwarf and Undead racial text, and **the entire Paladin talent list** into
+> Tier 1. The paragraph below describes Tier 1 as it stood **before** that panel and is kept
+> for historical accuracy. See [[Deep Dive Panel 2026-09-14]] for the full Tier 1 addition.
+>
+> Reminder that has not changed: **panel slides transcribed by a third party are Tier 2**,
+> however confidently presented. Only the two official recap articles are Tier 1.
+
+**Before 14 Sep this tier was very small.** The complete official class content was roughly:
 
 - Talents will be "ones you notice", with "real meaningful trade-offs"; the team wants to
   "cover gaps where they exist" without "erasing what makes each class unique"
@@ -33,6 +43,11 @@ the pre-purchase announcement. Safe to state as fact, subject to normal pre-laun
 - Dates, editions and pricing
 
 Attributed to **Nora Mills**, Lead Software Engineer.
+
+> [!warning] Two official recaps give the same title to two different people
+> The **Deep Dive** recap names **Ana Resendez** as Lead Software Engineer. Both recaps are
+> official and therefore both Tier 1; this vault **does not pick one**. The attribution above,
+> for What's Next content, is unchanged. See [[Design Pillars]].
 
 ### Tier 2 — Multiple independent outlets agree
 
@@ -90,6 +105,19 @@ certainly still exist.
   longest.
 - Mage Frost *Shatter* was only ever captured at rank 3/3, so its numbers may be rank-3 values.
 
+> [!success] External validation of the Tier 3 method — 14 Sep 2026
+> Blizzard's Deep Dive recap gave a full official Paladin talent list. **Nineteen of the twenty
+> items it named were already in the extraction, under the same names, doing the same things**
+> — including four of the five Retribution talents, in the tree the extraction covered worst
+> (4 unread cells). One talent, **Infusion of Light**, was missed entirely. Two names differ by
+> a letter: the extraction's *Swift Judgement* and *Instrument of Law* are officially
+> *Swift Judgment* and *Instrument of the Law*.
+>
+> **What this validates:** talent **names** and **rank-1 effects**, for one class.
+> **What it does not validate:** ranks 2+, which remain largely extrapolated, and the 36 unread
+> cells, which remain unknown. The Paladin result is encouraging about the method; it is not a
+> reason to start quoting rank-3 numbers. See [[Paladin]].
+
 ### Tier 4 — Inference and opinion
 
 Anything in these notes under a heading like **"My read"** or explicitly marked as inference.
@@ -136,8 +164,20 @@ premade UI settings, and the whole thing was a show floor build tagged
 ## Primary sources used
 
 **Official**
+- [World of Warcraft: Forever Deep Dive Panel Recap](https://news.blizzard.com/en-us/article/24303313/world-of-warcraft-forever-deep-dive-panel-recap) — Blizzard News *(added 14 Sep; the Tier 1 source for Camping, Legacy, realmless, transmog, itemization and the Paladin list)*
 - [World of Warcraft: Forever What's Next Panel Recap](https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap) — Blizzard News
 - [Pre-Purchase World of Warcraft: Forever Upgrades](https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth) — Blizzard News
+
+**Deep Dive panel coverage — added 14 September 2026**
+- [BlizzCon 2026: WoW Forever's deep-dive panel talks group play, progression, and item updates](https://massivelyop.com/2026/09/13/blizzcon-2026-world-of-warcraft-forevers-deep-dive-panel-talks-group-play-progression-and-item-updates/) — Massively Overpowered *(sole source for the stat name "expertise")*
+- [World of Warcraft Forever's Legacy system unlocks perks across alts while leveling](https://outputlag.com/news/world-of-warcraft-forevers-legacy-system-unlocks-perks-across-alts-while-leveling/) — Output Lag *(the six Legacy challenge categories; the Clay Stone "tripling down" quote)*
+- [World of Warcraft Forever's Hardcore will get its own Legacy challenges](https://outputlag.com/news/world-of-warcraft-forevers-hardcore-will-get-its-own-legacy-challenges/) — Output Lag *(Hardcore-specific Legacy challenges; the Kris Zierhut quote; the one-way transfer rule)*
+- [World of Warcraft Forever adds a fourth one-point talent at 16 points to every tree](https://outputlag.com/news/world-of-warcraft-forever-adds-a-fourth-one-point-talent-at-16-points-to-every-tree/) — Output Lag *(the 16-point milestone quote; **the locked "Secondary" tab**)*
+- [World of Warcraft Forever will be realmless](https://blizzardwatch.com/2026/09/13/world-warcraft-forever-will-realmless) — Blizzard Watch *(dead Hardcore characters transferring to PvP "for the first time")*
+- [World of Warcraft Forever Will Be Realmless](https://www.warcrafttavern.com/forever/news/world-of-warcraft-forever-will-be-realmless/) — Warcraft Tavern *(sole source for language preference being implemented via **layering**)*
+- [WoW: Forever Deep Dive Outlines Camping, Legacy Progression, Realmless Play, and Class Changes](https://mmohuts.com/news/world-of-warcraft-forever-deep-dive-outlines-camping-legacy-progression-realmless-play-and-class-changes) — MMOHuts *(independent cross-check on the Legacy numbers)*
+- [Skyborne Druid Forms in WoW: Forever](https://www.wowhead.com/forever/news/skyborne-druid-forms-in-wow-forever-382861) — Wowhead *(bear, cat and travel only — no Restoration form)*
+- [BlizzCon 2026 — WoW: Forever Deep Dive Panel](https://www.mmo-champion.com/content/14512-BlizzCon-2026-World-of-Warcraft-Forever-Deep-Dive-Panel) — MMO-Champion. **Video embed and a one-line blurb only — no written coverage of this panel.** Consistent with the 13 Sep finding that MMO-Champion is the weakest source here; for the Deep Dive it carries nothing usable at all.
 
 **Panel coverage**
 - [BlizzCon 2026 — WoW: Forever What's Next Panel Recap](https://www.mmo-champion.com/content/14502-BlizzCon-2026-World-of-Warcraft-Forever-What-s-Next-Panel-Recap) — MMO-Champion
@@ -172,7 +212,7 @@ premade UI settings, and the whole thing was a show floor build tagged
 ---
 
 **Related:** [[Class Changes]] · [[Talent System]] ·
-[[Races, Racials and Combos]] · [[Baseline Ability Changes]]
+[[Races, Racials and Combos]] · [[Baseline Ability Changes]] · [[Deep Dive Panel 2026-09-14]]
 
 ---
 
@@ -224,3 +264,26 @@ Consolidated in [[Open Questions]]. Verified still-correct on 13 Sep:
   Deeps.
 - **"New Shaman and Warlock specs"** — fabricated leak, documented above.
 - **Wowhead's Forever talent endpoint** — Classic Era placeholder, documented above.
+
+---
+
+## Deep Dive panel pass — 14 September 2026
+
+Captured by the scheduled task on the morning of 14 Sep AEST. Full write-up:
+[[Deep Dive Panel 2026-09-14]].
+
+- **Tier 1 roughly quadrupled.** A second official Blizzard recap now exists. Camping, Legacy,
+  the realmless model, transmog, combat and itemization, the talent structure and the whole
+  Paladin talent list are Tier 1.
+- **One vault claim was outright wrong and is corrected:** [[Open Questions]] held that separate
+  official **Hardcore realms** were confirmed. Forever has **no realms**.
+- **One vault scoring error is corrected:** Ion Hazzikostas was named as a presenter in the
+  official What's Next recap all along — a source this vault had already cited. **Second time in
+  two days that re-reading the official article beat re-searching.**
+- **Three new conflicts are recorded rather than resolved:** Legacy total points **65 (official)
+  vs 66 (demo-read)**; new race/class combos **six (official) vs eight (this vault's count)**;
+  Lead Software Engineer **Nora Mills vs Ana Resendez** across the two official recaps.
+- **MMO-Champion's standing is unchanged and if anything worse** — its Deep Dive page is a video
+  embed with no written coverage.
+- **The Tier 3 extraction came out of this well** for Paladin — see the validation callout in
+  the Tier 3 section above — without any of the ranks-2+ caveats being relieved.

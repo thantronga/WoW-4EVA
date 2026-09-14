@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, dungeons, content]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -88,11 +88,41 @@ rather than matching a name to something already on the map. Check the map for t
 
 ---
 
+## What the Deep Dive changed — 14 Sep
+
+**The brackets are still not official.** Blizzard's Deep Dive recap goes through combat, items,
+transmog, camping and Legacy in detail and **contains no dungeon level brackets**, exactly as the
+What's Next recap did not. The open question stays open until beta.
+
+What the panel did add, all **[Tier 1]** and all about dungeon *rewards* rather than structure:
+
+- **Drop tables re-examined across the board**, with **hundreds of new drops**.
+- **Unique boss items raised to blue (rare) quality.** Wowhead renders this as dungeon drops being
+  *"minimum rare quality"* — the same claim in different words.
+- **Improved set bonuses.**
+- **Bind-on-pickup Uncommon and Rare dungeon drops grant their appearance to every eligible
+  looter** when they drop, not just the winner. See [[Systems]].
+- **[Tier 2]** **Advanced camp-object blueprints drop from dungeon bosses** — the first mechanical
+  link between [[Systems|Camping]] and group content.
+
+> [!note] Bracket cross-check, 14 Sep
+> Icy Veins publishes all nine brackets and they **match this table exactly**, including the
+> Krol'dok 40–55 and Blackmaw 55–60 figures that the 13 Sep pass corrected. That is a useful
+> independent re-confirmation.
+>
+> **Warcraft Tavern is the outlier and should not be used for brackets.** Its dungeon round-up
+> gives a headline count of **"Dungeons (10 total)"** while listing **nine**, leaves **Hall of
+> Thanes** and **City of Dalaran** with no bracket at all, and names two dungeons differently
+> ("City of Dalaran", "Excavation Site"). Its own count contradicts its own list.
+
+---
+
 ## Open dungeon items
 
 - Blackmaw Hold's bracket is unstated in the Out of Games transcription; 55–60 comes from
   Icy Veins, goldgoblin and wccftech.
-- No official Blizzard source for **any** bracket. Beta on 17 Sep settles all nine.
+- No official Blizzard source for **any** bracket. **Re-checked 14 Sep against the Deep Dive
+  recap: still none.** Beta on 17 Sep settles all nine.
 - Warcraft Wiki lists **Timbermaw Hold** among dungeon locations shown in promotional
   material. No outlet reports it as one of the nine. Possibly a mislabelled Blackmaw Hold
   screenshot, possibly a tenth location. Unresolved.
@@ -100,4 +130,4 @@ rather than matching a name to something already on the map. Check the map for t
 ---
 
 **Related:** [[Raids]] · [[Zones]] · [[Roadmap]] · [[Sources and Confidence]] ·
-[[Verification Log 2026-09-13]]
+[[Verification Log 2026-09-13]] · [[Deep Dive Panel 2026-09-14]]
