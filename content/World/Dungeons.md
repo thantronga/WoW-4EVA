@@ -110,6 +110,13 @@ What the panel did add, all **[Tier 1]** and all about dungeon *rewards* rather 
 > Krol'dok 40–55 and Blackmaw 55–60 figures that the 13 Sep pass corrected. That is a useful
 > independent re-confirmation.
 >
+> **Second cross-check, 14 Sep.** Blizzard Watch's zones/dungeons/raids round-up (13 Sep) also
+> lists all nine and **also matches this table exactly**, Krol'dok 40–55 and Blackmaw 55–60
+> included. Three independent lists now agree with the corrected table. One slip in that article:
+> it gives **City of Dalaran's location as "Alterac Valley."** Alterac Valley is the battleground;
+> the zone is the **Alterac Mountains**. **Keep this table's reading.** See
+> [[Post-Panel Interviews 2026-09-14]].
+>
 > **Warcraft Tavern is the outlier and should not be used for brackets.** Its dungeon round-up
 > gives a headline count of **"Dungeons (10 total)"** while listing **nine**, leaves **Hall of
 > Thanes** and **City of Dalaran** with no bracket at all, and names two dungeons differently

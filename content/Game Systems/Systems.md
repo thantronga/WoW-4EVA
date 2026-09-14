@@ -142,6 +142,29 @@ Legacy Challenges window.
 > Challenges window read **"Legacy Points 0 / 66"** — see [[Talent System]]. **Prefer 65**
 > (official beats demo-read), but do not treat 66 as debunked until beta settles it.
 
+### Hands-on detail from the show floor — 14 Sep 2026
+
+**[Tier 3 — demo-read]** Blizzard Watch played the Legacy system on the BlizzCon floor on 12 Sep
+and adds mechanism the official recap does not. Full capture in
+[[Post-Panel Interviews 2026-09-14]].
+
+- The shape, in their words: *"a mash up of Achievements, a skill tree, and a seasonal"* journey.
+- **Only certain meta-level challenges award Legacy Points.** Legacy Challenges behave like
+  ordinary achievements across professions, dungeons and raids, but **most do not pay out** — the
+  points come from meta-challenges sitting above them. This changes how the 65-point total should
+  be read: **65 is not "65 achievements"**, it is 65 points from a much smaller set of metas.
+- **Rewards are claimed from in-game NPCs**, and only **four** were visible at preview.
+- Further tree-reward examples read on the floor: increased chance of a **skill increase**,
+  extended **rested experience**, and **inventory improvements**.
+
+> [!warning] Conflict — what actually unlocks the Legacy Reward Track?
+> The **official** recap says accumulation **beyond the 16-point spend cap** unlocks it. The
+> **hands-on** says the Progress Track pays out on **total points spent**. Those are different
+> triggers — overflow you cannot spend, versus the spending itself.
+>
+> **Prefer the official wording** for now. This is a mechanism to nail down at beta rather than
+> leave standing as two paraphrases of the same screen.
+
 ---
 
 ## Realmless Azeroth
@@ -179,6 +202,13 @@ Legacy Challenges window.
 > [!warning] This corrects this vault
 > [[Open Questions]] previously held that **separate official Hardcore realms** were confirmed.
 > There are no realms. Hardcore is a ruleset. The realm-count question is void, not answered.
+
+> [!info] Hardcore has its own note
+> The Hardcore ruleset in depth, **plus the separate "World of Warcraft Hardcore: What's Next"
+> panel** that aired at 4:15 pm PDT the same day — the three-minute world-refresh countdown,
+> Hardcore-specific Legacy challenges, the level-25 rule and the Mak'gora tease — are captured in
+> **[[Realms and Rulesets]]**. That panel's content is **Tier 2 single-source** and flagged for
+> re-check.
 
 ---
 
@@ -279,10 +309,110 @@ spring and summer 2027 windows — see [[Roadmap]].
 - **HD/SD character model toggle**
 - **Restored Classic animations** on the HD models
 - **Modern and Classic visual presets**
-- **Official gamepad support**
+- **Official gamepad support** — detailed below.
+- **Edit Mode UI customisation**, comparable to modern WoW. **[Tier 3 — demo-read]**, Blizzard
+  Watch's show-floor session; not mentioned in either panel recap.
 - Rendering updates: flowing rivers in Elwynn, mist over Darkshore water, moonlight through
   Ashenvale trees. [REPORTED] also **volumetric fog and god rays**.
 - Stated constraint: preserve the timeless art style.
+
+> [!note] The lighting work is art, not just an engine upgrade — 14 Sep 2026
+> **[Tier 2]** Ion Hazzikostas, in a post-BlizzCon interview: *"the lighting tech… isn't just an
+> engine improvement. It's also work… by our environment artists across the entirety of those
+> zones to relight them."* Duskwood is his example — players carrying torches and lanterns cast
+> **real-time illumination**, over unchanged classic assets. Worth recording because the list
+> above reads like a settings-menu feature list, and the actual effort is per-zone art passes.
+
+### Gamepad support — what it actually is
+
+**[Tier 3 — demo-read]** Hands-on at BlizzCon, 13 Sep. See
+[[Post-Panel Interviews 2026-09-14]].
+
+- **Toggled in the menus**, which converts the whole interface to controller-compatible form.
+- **Radial selection menus.**
+- Binding layers: abilities on the **d-pad** at base, then face and d-pad buttons while holding
+  **RT**, **LT**, or **both** — reported as **"over 20 places to bind abilities."**
+- **Targeting: LB for friendlies, RB for enemies.** Tap to cycle; **hold LB and use the d-pad**
+  to pick a specific party member. Clear visual markers on the current target, with the party
+  frame as reference — the reporter found healing workable on a pad.
+- **Limitation:** ground-targeted AoE such as *Blizzard* centres on the **current target**; there
+  is no manual placement with the right stick.
+- Described as **alpha**, **built for Forever**. **[Tier 2]** Hazzikostas frames it as an
+  **accessibility** feature for players intimidated by keyboard and mouse, not a console signal;
+  retail implementation is unconfirmed.
+
+---
+
+## World buffs and the buff economy
+
+> [!warning] Blizzard has said **nothing** about world buffs. This section is the absence, and what surrounds it.
+> Checked 14 Sep 2026 against: both official recaps, the official pre-purchase and "Carve a New
+> Path" articles, all three post-BlizzCon developer interviews, every show-floor hands-on write-up,
+> the Hardcore panel coverage, and the Forever forum. **No mention of Rallying Cry of the
+> Dragonslayer, Songflower Serenade, Warchief's Blessing, Dire Maul tribute buffs, Spirit of
+> Zandalar, the Darkmoon Faire buffs, or world buffs as a category.** Not confirmed, not removed,
+> not discussed.
+
+This is a **conspicuous** silence rather than an ordinary gap, because world buffs are one of the
+defining structures of Classic level-60 play and the single most-argued raid-preparation topic in
+the Classic community. A panel that spent a full segment on itemization, another on Camping buffs,
+and another on baseline party buffs did not touch them.
+
+### What *is* known, and what it hints at
+
+Four things Blizzard **did** say bear on the buff economy. None of them is about world buffs, and
+none should be quoted as if it were.
+
+**1. Campsite buffs explicitly do not stack with class buffs.** [Tier 1] Campsite objects "do not
+stack with class-specific buffs". [Tier 2] Inven Global renders the same point as: *"These buffs
+function like existing class buffs provided by Paladins or Mages, so they do not stack with each
+other."* So the **new** buff system was designed with stacking limits from the start.
+
+**2. Party-buff talents are gone and baseline.** [Tier 1] *Divine Spirit*, *Blessing of Kings*,
+*Improved Mark of the Wild* — and per one reading *Improved Battle Shout* — are no longer talents.
+That removes the talent tax on providing raid buffs, which is a change to the buff economy even
+though it says nothing about world buffs. See [[Talent System]].
+
+**3. Raid *debuffs* are being systematically de-stacked.** [Tier 3] The clearest mechanical theme
+in the talent extraction: *Shadow Weaving*, *Winter's Chill*, *Improved Shadow Bolt* and
+*Hemorrhage* all convert from shared raid-wide debuffs into personal buffs. See pattern 2 in
+[[Class Changes]]. The instinct — **stop making raid composition a stacking puzzle** — is the same
+instinct that would motivate touching world buffs. Blizzard has not commented on either.
+
+**4. The stated goal is to "un-solve the game."** [Tier 2 — Massively OP's phrasing] The stat
+consolidation and itemization work is explicitly aimed at preventing *"rigid, solved builds from
+repeating"* (Inven Global). World-buff stacking is the most famous solved problem in Classic
+raiding. That makes it **plausible** the team has a view — and plausible is not evidence.
+
+### What the content list implies
+
+- **Onyxia's Lair is in Forever**, unlocking **9 Dec 2026** — see [[Raids]]. In Classic, the
+  **Onyxia head turn-in** is the source of *Rallying Cry of the Dragonslayer*. **The source
+  encounter exists in the game.** Whether the turn-in and its buff do is unstated.
+- **Blackwing Lair is not in the announced content.** Clay Stone said the original raids *"have
+  not opened yet"* with a staged rollout intended, and only Onyxia's Lair has a date. So
+  *Warchief's Blessing* — the Nefarian head buff — has no source in Forever yet either way.
+- **Dire Maul, Darkmoon Faire and the Songflower rotations** are all pre-existing world content in
+  zones Forever includes. Nothing has been said about any of them.
+
+> [!danger] Do not fill this gap from Classic guides
+> Searching "WoW world buffs" returns Wowhead, Overgear and similar **Classic / Anniversary-realm**
+> guides, plus recent Anniversary-realm news about an *Unrelenting Rallying Cry of the
+> Dragonslayer*. **None of that is Forever.** Forever is a separate product on a separate
+> continuity; a Classic mechanic is evidence about Classic only. This is the same contamination
+> route that brought in the Demon Hunter "Devourer" — see [[Sources and Confidence]].
+
+### The honest position
+
+**Unknown.** The three defensible statements are: Blizzard has not addressed world buffs; the
+adjacent design signals lean toward *less* stacking rather than more; and the source encounter for
+the most important world buff is in the game on 9 December. Anything beyond that is
+[SPECULATION] and should be labelled as such.
+
+**When this becomes checkable:** partly at **beta on 17 Sep** — the beta caps at level 30, so
+Onyxia and Dire Maul are out of reach, but the **Songflower** spawns in Felwood, the **Darkmoon
+Faire** buffs and the world-buff aura framework are all things datamining should expose within
+days of the client landing. Tracked in [[Open Questions]].
 
 ---
 
@@ -295,5 +425,5 @@ spring and summer 2027 windows — see [[Roadmap]].
 ---
 
 **Related:** [[Design Pillars]] · [[Talent System]] · [[Races, Racials and Combos]] ·
-[[Roadmap]] · [[Open Questions]] ·
+[[Realms and Rulesets]] · [[Roadmap]] · [[Open Questions]] ·
 [[Deep Dive Panel 2026-09-14]]

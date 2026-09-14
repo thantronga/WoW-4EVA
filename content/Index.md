@@ -57,6 +57,7 @@ Full detail and Sydney conversions in [[Roadmap]].
 | Note | What is in it |
 |---|---|
 | [[Systems]] | Talents, racials, items, **Camping**, **Legacy**, **realmless rulesets**, **combat and itemization**, transmog, PvP, presentation. |
+| [[Realms and Rulesets]] | The **Hardcore** ruleset in depth, and the separate **Hardcore panel** of 13 Sep. |
 | [[Design Pillars]] | The four pillars, the positioning as a third WoW, the presenters. |
 
 ## Release
@@ -73,6 +74,7 @@ Full detail and Sydney conversions in [[Roadmap]].
 | [[Sources and Confidence]] | The four evidence tiers, source reliability, debunked claims. |
 | [[Open Questions]] | What is still unknown, and the do-not-file contamination list. |
 | [[Deep Dive Panel 2026-09-14]] | The second BlizzCon panel: what it revealed, corrected and closed. **Read this before the older notes.** |
+| [[Post-Panel Interviews 2026-09-14]] | Developer interviews, show-floor hands-on, and the official article that finally dates the timeline. |
 | [[Verification Log 2026-09-13]] | Full pre-Deep-Dive verification pass: six corrections. |
 | [[Changelog]] | Dated entries from the daily news-diff task. |
 
@@ -83,8 +85,13 @@ Full detail and Sydney conversions in [[Roadmap]].
 - ~~**Deep Dive panel**~~ — **aired and captured, 14 Sep 2026.** See
   [[Deep Dive Panel 2026-09-14]]. Notes touched by it carry a dated "Deep Dive" section;
   notes without one still date from 12–13 Sep.
-- **A separate Hardcore panel** was referenced in the Out of Games live blog. Whether it aired
-  separately, and whether it carried anything the Deep Dive did not, is unestablished.
+- **The separate Hardcore panel aired** — 4:15pm PDT Sun 13 Sep — and carried three things the
+  Deep Dive did not. Captured in [[Realms and Rulesets]]. **Re-check it:** Blizzard published no
+  recap and Output Lag is currently the only outlet with post-panel material, so that block is
+  **single-source**.
+- **Post-panel material is Tier 2 and Tier 3, not Tier 1.** Developer interviews are third
+  parties transcribing speech; show-floor hands-on is demo-read. Both are captured and labelled
+  in [[Post-Panel Interviews 2026-09-14]].
 - **17 September** — beta opens. Everything in tier 3 should be replaced with datamined
   data within days, and the talent notes revisited wholesale.
 - **Open items** are tracked in [[Open Questions]], not here.

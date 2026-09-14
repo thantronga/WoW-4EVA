@@ -133,10 +133,26 @@ conventions were criticised as implausible, and one commenter traced its expansi
 existing TTRPG material. There is no evidence for new specs in any class. There is no evidence
 for hero talents. The class count is nine and unchanged.
 
-**"Wowhead has the Forever talent data."** Wowhead launched `wowhead.com/forever/talent-calc`
-for all nine classes, but its Forever data endpoint is currently **byte-for-byte identical to
-Classic Era** — 27 trees, 432 talents, same spell IDs, same positions. It is a placeholder.
-Anyone citing Wowhead's Forever calculator as evidence of Forever talents is citing Classic.
+~~**"Wowhead has the Forever talent data."**~~ **— superseded 13 Sep 2026.** Wowhead launched
+`wowhead.com/forever/talent-calc` for all nine classes, and its Forever data endpoint **was**
+byte-for-byte identical to Classic Era — 27 trees, 432 talents, same spell IDs, same positions.
+That was a placeholder, and this warning was correct at the time.
+
+> [!important] Wowhead now carries real Forever data — score it Tier 2, ranks excluded
+> Wowhead announced *"WoW: Forever Talent Calculator Now Live"* (article **382870**, 13 Sep): the
+> calculator is now built from **the BlizzCon panels and testing sessions**. **Wowhead's own
+> caveat** is that the data is *"mostly"* accurate but **"talent rank scaling is potentially
+> wrong"** for time reasons, with some new talents missing icons; it will be rebuilt by
+> **datamining** once the beta client is available.
+>
+> **Tier 2 for names and positions. Unusable for rank values.** That is independently the same
+> verdict the community extraction reached about its own data — two projects, different methods,
+> identical conclusion: **names and rank 1 are usable, ranks 2+ are not.** The agreement is
+> mildly reassuring about the names.
+>
+> **Retired, not reversed.** A *pre-13-Sep* snapshot of that calculator is still Classic Era
+> data, so the original warning still applies to anything citing one. See
+> [[Post-Panel Interviews 2026-09-14]].
 
 **Any talent calculator claiming complete Forever data.** Several exist; all are working from
 the same demo footage. `wowforevertalents.com` is candid about this in its About page;
@@ -164,9 +180,27 @@ premade UI settings, and the whole thing was a show floor build tagged
 ## Primary sources used
 
 **Official**
+- [Carve a New Path with World of Warcraft: Forever](https://news.blizzard.com/en-us/article/24302093/carve-a-new-path-with-world-of-warcraft-forever) — Blizzard News *(added 14 Sep; **the Tier 1 source for the timeline placement**, and the article that contradicts itself on PST vs PDT)*
 - [World of Warcraft: Forever Deep Dive Panel Recap](https://news.blizzard.com/en-us/article/24303313/world-of-warcraft-forever-deep-dive-panel-recap) — Blizzard News *(added 14 Sep; the Tier 1 source for Camping, Legacy, realmless, transmog, itemization and the Paladin list)*
 - [World of Warcraft: Forever What's Next Panel Recap](https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap) — Blizzard News
 - [Pre-Purchase World of Warcraft: Forever Upgrades](https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth) — Blizzard News
+
+**Panel schedule and additional panels — added 14 September 2026**
+- [Tune in to World of Warcraft at BlizzCon 2026 — September 12 and 13](https://news.blizzard.com/en-us/article/24302817/tune-in-to-world-of-warcraft-at-blizzcon-2026-september-12-and-13) — Blizzard News. **Tier 1 for the panel slate and the naming trap above.**
+- [BlizzCon 2026 — WoW: Forever — Evolving a Timeless World](https://www.mmo-champion.com/content/14516-BlizzCon-2026-World-of-Warcraft-Forever-Evolving-a-Timeless-World) — MMO-Champion. **Single-source graphics/rendering content with a contested slot label. Do not adopt its presenter names.**
+- [10 big World of Warcraft Forever details from BlizzCon](https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/) — PC Gamer. *(Independent Deep Dive round-up. **Checked for world buffs: none.**)*
+- [World of Warcraft: Forever Details Revealed! Major Overhaul for Gear and Classes?](https://www.invenglobal.com/articles/25897/world-of-warcraft-forever-details-revealed-major-overhaul-for-gear-and-classes) — Inven Global. *(Campsite buffs "do not stack with each other"; the "rigid, solved builds" framing. **Checked for world buffs: none.**)*
+
+**Interviews and hands-on — added 14 September 2026**
+- [BlizzCon 2026: The 'World Of Warcraft: Forever' Talk Balancing Old And New](https://butwhytho.net/2026/09/wow-classic-devs-world-of-warcraft-forever/) — But Why Tho *(Anna Resendez + Clayton Stone; **sole source for no-attunement and fixed raid sizes**)*
+- ['World of Warcraft Midnight' Game Director & VP Talk "Squish" Effectiveness and Forever's Modern Updates](https://butwhytho.net/2026/09/world-of-warcraft-midnight-interview-2/) — But Why Tho *(Hazzikostas + Longdale; **staggered regional rollouts**, lighting, surnames-to-retail. **Mostly a retail Midnight interview — mine carefully, see the contamination register.**)*
+- ['This Is Our Avengers: Endgame': WoW Director Discusses 'Forever,' 'Eclipse,' and More](https://www.mensjournal.com/entertainment/this-is-our-avengers-endgame-world-of-warcraft-director-discusses-forever-eclipse-and-more) — Men's Journal *(Hazzikostas; **"no expiration date"**. Same contamination caution — it also covers Eclipse.)*
+- [First impressions of the World of Warcraft: Forever demo from the BlizzCon floor](https://blizzardwatch.com/2026/09/12/first-impressions-world-warcraft-forever-demo/) — Blizzard Watch *(**Tier 3 demo-read**; two-part names seen a day before the realmless reveal; Edit Mode)*
+- [A first look at World of Warcraft: Forever's Legacy system from BlizzCon](https://blizzardwatch.com/2026/09/12/first-look-wow-forevers-legacy-system/) — Blizzard Watch *(**Tier 3 demo-read**; meta-challenges only award points; the Progress Track conflict)*
+- [I Played WoW with a Controller! Officially!](https://playday.one/2026/09/13/i-played-wow-with-a-controller-officially/) — DayOne *(**Tier 3 demo-read**; the full gamepad scheme)*
+- [What we know about World of Warcraft: Forever's new zones, quests, dungeons, and raids](https://blizzardwatch.com/2026/09/13/know-world-warcraft-forevers-new-zones-quests-dungeons-raids) — Blizzard Watch *(third independent list matching the corrected dungeon brackets; Riverglades 30–45; "Alterac Valley" slip)*
+- [WoW: Forever Talent Calculator Now Live](https://www.wowhead.com/forever/news/wow-forever-talent-calculator-now-live-382870) — Wowhead *(**retires the placeholder warning**)*
+- [BlizzCon 2026 World of Warcraft: What's Next Panel Transcript](https://warcraft.blizzplanet.com/blog/comments/blizzcon-2026-world-of-warcraft-whats-next-panel-transcript) — Blizzplanet *(partial transcript; corroborates Ion Hazzikostas opening the panel and Tim Jones presenting the pillars. **No Deep Dive transcript exists.**)*
 
 **Deep Dive panel coverage — added 14 September 2026**
 - [BlizzCon 2026: WoW Forever's deep-dive panel talks group play, progression, and item updates](https://massivelyop.com/2026/09/13/blizzcon-2026-world-of-warcraft-forevers-deep-dive-panel-talks-group-play-progression-and-item-updates/) — Massively Overpowered *(sole source for the stat name "expertise")*
@@ -177,7 +211,34 @@ premade UI settings, and the whole thing was a show floor build tagged
 - [World of Warcraft Forever Will Be Realmless](https://www.warcrafttavern.com/forever/news/world-of-warcraft-forever-will-be-realmless/) — Warcraft Tavern *(sole source for language preference being implemented via **layering**)*
 - [WoW: Forever Deep Dive Outlines Camping, Legacy Progression, Realmless Play, and Class Changes](https://mmohuts.com/news/world-of-warcraft-forever-deep-dive-outlines-camping-legacy-progression-realmless-play-and-class-changes) — MMOHuts *(independent cross-check on the Legacy numbers)*
 - [Skyborne Druid Forms in WoW: Forever](https://www.wowhead.com/forever/news/skyborne-druid-forms-in-wow-forever-382861) — Wowhead *(bear, cat and travel only — no Restoration form)*
-- [BlizzCon 2026 — WoW: Forever Deep Dive Panel](https://www.mmo-champion.com/content/14512-BlizzCon-2026-World-of-Warcraft-Forever-Deep-Dive-Panel) — MMO-Champion. **Video embed and a one-line blurb only — no written coverage of this panel.** Consistent with the 13 Sep finding that MMO-Champion is the weakest source here; for the Deep Dive it carries nothing usable at all.
+- [BlizzCon 2026 — WoW: Forever Deep Dive Panel](https://www.mmo-champion.com/content/14512-BlizzCon-2026-World-of-Warcraft-Forever-Deep-Dive-Panel) — MMO-Champion. **Video embed and a one-line blurb only — no written coverage of this panel.** Consistent with the 13 Sep finding that MMO-Champion is the weakest source here; for the Deep Dive it carries nothing usable at all. Its [forum thread](https://www.mmo-champion.com/threads/2669932-BlizzCon-2026-World-of-Warcraft-Forever-Deep-Dive-Panel) does carry recap text tracking the official article.
+- [World of Warcraft: Forever Deep Dive Panel Recap — Blue Tracker mirror](https://www.wowhead.com/forever/blue-tracker/news/us/world-of-warcraft-forever-deep-dive-panel-recap-world-of-warcraft-blizzard-news-24303313) — Wowhead. Mirror of the official recap; reliable, unlike the liveblog.
+- [WoW: Forever Deep Dive Liveblog](https://www.wowhead.com/forever/news/world-of-warcraft-forever-deep-dive-liveblog-382862) — Wowhead. **A running log, not a recap** — it lists only **five** of the six race/class combinations and carries no Legacy numbers.
+- [WoW Forever Details Revealed: Major Overhaul for Gear and Classes](https://www.invenglobal.com/articles/25897/world-of-warcraft-forever-details-revealed-major-overhaul-for-gear-and-classes) — Inven Global. **Two identifiable errors in one article:** "Seal of Wrath" for **Seal of Fury**, and Strength for the Sharpening Wheel's **Attack Power**. Breadth only, not names or stats.
+- [There Will Be No Server Realms in Warcraft Forever](https://www.icy-veins.com/wow/news/there-will-be-no-server-realms-in-warcraft-forever/) — Icy Veins
+- [These Are Warcraft Forever's New Leveling Dungeons](https://www.icy-veins.com/wow/news/these-are-warcraft-forevers-new-leveling-dungeons/) — Icy Veins. All nine brackets, matching this vault.
+- [All New Dungeons & Raids in WoW: Forever](https://www.warcrafttavern.com/forever/news/all-new-dungeons-raids-in-wow-forever-revealed-at-blizzcon/) — Warcraft Tavern. **Do not use for brackets** — headline says "10 total", body lists nine, two unbracketed.
+- [Warcraft Forever Reveals 2 New Raids – and Teases Legendary](https://www.icy-veins.com/wow-forever/news/warcraft-forever-reveals-2-new-raids-and-teases-legendary/) — Icy Veins. The legendary is **not** named; also the source of the **unconfirmed Illidan guess** for the Barrow Deeps prisoner.
+- [10 big World of Warcraft Forever details from BlizzCon](https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/) — PC Gamer
+- [Tune in to World of Warcraft at BlizzCon 2026](https://news.blizzard.com/en-us/article/24302817/tune-in-to-world-of-warcraft-at-blizzcon-2026-september-12-and-13) — Blizzard News. The panel schedule; the source for the Hardcore panel's 4:15 pm PDT slot.
+
+**Hardcore panel — 13 Sep, 4:15 pm PDT. Single-outlet; flagged for re-check.**
+- [WoW Forever warns you three minutes before the world refreshes around you](https://outputlag.com/news/world-of-warcraft-forever-warns-you-three-minutes-before-the-world-refreshes-around-you/) — Output Lag
+- [WoW Forever's Hardcore could get a dedicated space for Mak'gora duels](https://outputlag.com/news/world-of-warcraft-forevers-hardcore-could-get-a-dedicated-space-for-makgora-duels/) — Output Lag
+
+**Other BlizzCon panels**
+- [WoW Forever runs in its own continuity, separate from modern WoW](https://outputlag.com/news/world-of-warcraft-forever-runs-in-its-own-continuity-separate-from-modern-wow/) — Output Lag. **From the "Found Photographs" panel, not the Deep Dive.** Single-outlet; the source for the separate-continuity confirmation in [[Design Pillars]].
+
+> [!warning] Source concentration risk — noted 14 Sep
+> **Output Lag is now the sole source for three separate claims in this vault**: the entire
+> Hardcore panel, the locked Secondary talent tab, and the separate-continuity statement. It has
+> been the most reliable third-party outlet through both panels, which is why the claims were
+> accepted — but **three load-bearing items resting on one outlet is a concentration worth
+> watching.** Re-check each when other outlets publish.
+>
+> Also noted: **Out of Games published no locatable Deep Dive or Hardcore coverage**, and its
+> domain is **outof.games**, not outofgames.com. **wccftech and wowtbc.gg published no Deep Dive
+> coverage at all** as of 14 Sep.
 
 **Panel coverage**
 - [BlizzCon 2026 — WoW: Forever What's Next Panel Recap](https://www.mmo-champion.com/content/14502-BlizzCon-2026-World-of-Warcraft-Forever-What-s-Next-Panel-Recap) — MMO-Champion
@@ -254,6 +315,52 @@ four tiers above as:
 Demo-build observations sit in **Tier 3** and have no incoming-tag equivalent — they are
 neither announced nor inferred. Tag them explicitly as demo-read.
 
+### The BlizzCon Sunday panel slate, and the naming trap
+
+**[Tier 1]** Blizzard's schedule article (**24302817**) lists Sunday 13 September as:
+
+| PDT | Panel |
+|---|---|
+| **10:00 am** | **World of Warcraft Forever: Evolving a Timeless World** |
+| 10:45 am | World of Warcraft Housing: Crafting Coziness and Creative Freedom |
+| 11:45 am | World Building in World of Warcraft |
+| 1:15 pm | World of Warcraft: Art Design |
+| **2:15 pm** | **World of Warcraft: Design Deep Dive** |
+| **4:15 pm** | **World of Warcraft Hardcore: What's Next** |
+| 5:20 pm | Closing Remarks |
+
+> [!danger] "The Deep Dive panel" is ambiguous — two different panels answer to it
+> The panel this vault calls **"the Deep Dive"** is the **10:00 am** slot, whose *schedule* title is
+> **"Forever: Evolving a Timeless World"**. Blizzard's recap of that content is titled
+> **"Deep Dive Panel Recap"** (article 24303313), which is where the vault's name comes from, and
+> every outlet followed suit.
+>
+> **But the schedule separately lists "World of Warcraft: Design Deep Dive" at 2:15 pm** — a
+> different panel. **Anything sourced to "the WoW Design Deep Dive" without a Forever qualifier
+> should be treated as possibly the 2:15 panel and possibly not about Forever at all.** Check the
+> time or the presenter list before filing it.
+>
+> Only the 10:00 am panel carries "Forever" in its schedule title. **Housing, World Building and
+> Art Design are not marked Forever** — and Housing in particular is a retail Midnight feature.
+> The vault's *"Skyborne housing decor"* and *"figurine housing decor for modern WoW"* lines in
+> [[Editions]] are correct as written; **there is no evidence of housing in Forever**, and a
+> forum thread asking about it has **no blue reply**.
+
+**[Tier 2, single-source, attribution contested]** MMO-Champion's page for *"Evolving a Timeless
+World"* carries **graphics and rendering** content — volumetric fog and god rays, dynamic shadows
+from terrain and models tracking the sun, **global illumination replacing baked lighting**, a new
+water shader with waves, flow, reflections and variable transparency, with **Darkshire and Raven
+Hill Cemetery** as worked examples — credited to **Matt Heyman** (Lead Environment Artist) and
+**Jason Scott** (Lead Software Engineer).
+
+That **conflicts with Blizzard's own recap of the same time slot**, which credits Clay Stone, Josh
+Greenfield, Ana Resendez and Kris Zierhut for systems content. Possible readings: MMO-Champion
+mislabelled a different panel (Art Design or World Building are the obvious candidates), or the
+slot had two segments. **MMO-Champion alone, against Tier 1, on a slot label: do not adopt.** The
+rendering *detail* is plausible and consistent with [[Systems|Systems § Presentation]]; the
+**panel attribution and the two presenter names are recorded, not adopted.** Needs a second
+outlet.
+
 ### Contamination register
 
 Consolidated in [[Open Questions]]. Verified still-correct on 13 Sep:
@@ -263,7 +370,17 @@ Consolidated in [[Open Questions]]. Verified still-correct on 13 Sep:
   classes and no Demon Hunters; its only Demon Hunter is an unnamed NPC prisoner in the Barrow
   Deeps.
 - **"New Shaman and Warlock specs"** — fabricated leak, documented above.
-- **Wowhead's Forever talent endpoint** — Classic Era placeholder, documented above.
+- **World buff material.** Searching world buffs returns **Classic / Anniversary-realm** guides
+  (Wowhead, Overgear) and recent Anniversary news about an *Unrelenting Rallying Cry of the
+  Dragonslayer*. **None of it is Forever.** Blizzard has said nothing about world buffs in
+  Forever — see [[Systems|Systems § World buffs and the buff economy]]. A Classic mechanic is
+  evidence about Classic only; this is the same route the Demon Hunter "Devourer" came in on.
+- **"WoW: Design Deep Dive" (2:15 pm PDT, 13 Sep)** is a **different panel** from the Forever
+  panel this vault calls the Deep Dive. See the panel slate above before filing anything sourced
+  to a "Deep Dive".
+- ~~**Wowhead's Forever talent endpoint**~~ — **retired 14 Sep.** No longer a Classic Era
+  placeholder; real Forever data since 13 Sep, Tier 2 for names, unreliable for ranks. Documented
+  above and in [[Post-Panel Interviews 2026-09-14]].
 
 ---
 
@@ -287,3 +404,57 @@ Captured by the scheduled task on the morning of 14 Sep AEST. Full write-up:
   embed with no written coverage.
 - **The Tier 3 extraction came out of this well** for Paladin — see the validation callout in
   the Tier 3 section above — without any of the ranks-2+ caveats being relieved.
+
+---
+
+## Post-panel research pass — 14 September 2026
+
+Interviews, show-floor hands-on and a re-read of the official articles. Full write-up:
+[[Post-Panel Interviews 2026-09-14]].
+
+- **A third scoring error of the same kind, corrected.** Blizzard's own article 24302093 states
+  the timeline placement — *"after the events of Warcraft III Reforged: Forsaken Kingdom and
+  before Molten Core"* — which this vault was carrying as a **low-authority wiki placement, "do
+  not quote as fact"**. Together with the Skyborne racials (13 Sep) and Ion Hazzikostas's
+  presenter role (14 Sep), that is **three times in three days that the answer was already in an
+  officially-cited source**. Before scoring anything unverified: re-read the official articles.
+- **Interviews are Tier 2.** A developer quoted directly by an outlet is a third party
+  transcribing speech, the same as a panel slide. Two facts now in [[Raids]] — no attunement, no
+  flex raid sizes — are **Tier 2 and single-outlet**. Re-check them.
+- **Two of the new interview sources are primarily about retail.** The But Why Tho Midnight
+  interview and the Men's Journal piece both cover Midnight/Eclipse alongside Forever. **Mine
+  them for Forever content only** — this is exactly the surface the Demon Hunter "Devourer"
+  contamination came in on.
+- **A contamination entry was retired rather than reversed** — Wowhead's calculator. Worth noting
+  as a pattern: warnings in this vault carry a date for a reason, and a source that was a
+  placeholder last week may not be one today. **Re-check the register periodically instead of
+  treating it as permanent.**
+- **An official Blizzard article contradicts itself** on the launch time (PST vs PDT, within
+  article 24302093). Official does not mean internally consistent; the DST arithmetic in
+  [[Roadmap]] is what settles it.
+
+---
+
+## World buffs check — 14 September 2026
+
+A deliberate negative search, recorded so it does not get repeated.
+
+**Question:** has Blizzard said anything about world buffs in Forever?
+
+**Checked:** both official panel recaps (24303862, 24303313); the pre-purchase article (24301508);
+"Carve a New Path" (24302093); the panel schedule (24302817); all three post-BlizzCon developer
+interviews; every show-floor hands-on write-up; the Hardcore panel coverage; PC Gamer's and Inven
+Global's independent round-ups; the WoW: Forever General Discussion forum.
+
+**Result: nothing.** No mention of Rallying Cry of the Dragonslayer, Songflower Serenade,
+Warchief's Blessing, Dire Maul tribute buffs, Spirit of Zandalar, Darkmoon Faire buffs, or world
+buffs as a category. **Not confirmed, not removed, not discussed.** No blue post on the topic.
+
+**Why this is worth a record rather than a shrug.** An absence found by *one* search is not
+evidence; an absence found across every official source, three interviews and two independent
+round-ups is a **reportable finding** — especially when the same event gave a full segment each to
+itemization, Camping buffs and baseline party buffs. Filed as an open question with its adjacent
+evidence in [[Systems|Systems § World buffs and the buff economy]] rather than left as a hole.
+
+**The trap this search walks into:** every high-ranking result for "WoW world buffs" is Classic or
+Anniversary-realm content. Logged in the contamination register above.

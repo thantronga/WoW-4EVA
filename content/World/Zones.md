@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, zones, content]
-updated: 2026-09-13
+updated: 2026-09-14
 status: pre-beta
 ---
 
@@ -50,6 +50,15 @@ Swamp of Sorrows and the Badlands**.
 > The Krol'dok Stronghold dungeon inside this zone is **40–55**, which pulls toward the wider
 > reading — a dungeon is not usually 10 levels above its host zone's ceiling. **Unresolved;
 > lean wider than mid-40s.**
+>
+> **Fourth reading added 14 Sep.** Blizzard Watch's zones/dungeons/raids round-up (13 Sep) gives
+> Riverglades as **30–45**. That is the **lowest ceiling anyone has proposed**, and it sits worst
+> of the four with the 40–55 dungeon inside the zone. Recorded for completeness, **not adopted**.
+>
+> Tally of readings now in circulation: **mid-30s–mid-40s** (Output Lag) · **30–45** (Blizzard
+> Watch) · **35–55** (wccftech) · **~40–55** (Warcraft Tavern). Four outlets, four answers, from
+> one slide. This is the clearest single illustration of why every level figure in this vault is
+> Tier 2. Beta on 17 Sep settles it.
 
 ### Zephras Isle
 **Skyborne starting zone, levels 1–12.** A floating/skyborne island, elementally active, with

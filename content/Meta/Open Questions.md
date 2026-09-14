@@ -11,6 +11,17 @@ the Deep Dive panel on **14 Sep 2026**.
 
 ---
 
+## Closed on 14 Sep — post-panel research (interviews, hands-on, official articles)
+
+Full detail in [[Post-Panel Interviews 2026-09-14]].
+
+| Was open | Answer |
+|---|---|
+| **Where Forever sits chronologically** (the residual after the separate-continuity question closed) | **Closed (Tier 1).** Blizzard's own article **24302093** *"Carve a New Path with World of Warcraft: Forever"* states it: *"Set after the events of **Warcraft III Reforged: Forsaken Kingdom** and before **Molten Core**…"* This is Blizzard's wording in a Blizzard-authored article, not a wiki editor's placement — **the wiki was reading Blizzard's copy.** The "low authority, do not quote as fact" caveat this vault attached to it is withdrawn. |
+| **Whether Wowhead's Forever talent data is usable** | **Closed / entry retired (Tier 2).** Wowhead's calculator went live with **real Forever data** on 13 Sep (article **382870**), drawn from the panels and testing sessions — it is no longer the Classic Era placeholder. **Wowhead's own caveat:** *"mostly"* accurate, but **rank scaling is potentially wrong**. Score it **Tier 2 for names and positions, unusable for ranks** — independently the same verdict as the community extraction. **Retired, not reversed:** an older snapshot of that calculator is still Classic data. See [[Talent System]]. |
+
+---
+
 ## Closed on 14 Sep — the Deep Dive panel
 
 Full detail in [[Deep Dive Panel 2026-09-14]].
@@ -20,6 +31,8 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 | **Camping mechanics in detail** | **Closed (Tier 1).** Basic Campfire reimagines the Cooking Fire — rest, vendors, repairs, profession workspaces, **one-hour buffs**. **Up to three crafted objects, each from a different player**, one per player on a one-hour cooldown, not stacking with class buffs. Level 20: Sharpening Wheel (BS, AP) · Faction Banner (Tailor, Spirit) · Incense Candle (Herb, Int). **Dungeon-boss Blueprints** unlock Alchemy Lab, Tanning Rack and **5-/10-object upgraded campfires** (Cook). **600+ new recipes**; crafted food grants a small XP bonus. See [[Systems]]. |
 | **Legacy mechanics in detail** | **Closed (Tier 1).** Legacy Points from Legacy Challenges; **three trees — Adventure, Professions, Resourcefulness**; named talents **Well Rested**, **Bountiful Harvest**, **Reagent Economy**. Points **shared across alts, spent per character**. **Launch cap 16; 65 total earnable.** Beyond the cap, the **Legacy Reward Track** gives cosmetics only (e.g. a **Spectral Bear Cub**). Hardcore gets its own challenges. **Residual: the demo build read 66, not 65** — see the conflict note in [[Talent System]]. |
 | **Hardcore realm count and ruleset** | **Closed by replacement (Tier 1).** The question was malformed: **Forever has no realms at all.** Hardcore is one of **four rulesets** (Normal / PvP / Roleplaying / Hardcore), arriving **post-launch**, **fully enclosed**. Nothing transfers *in*; everything earned there transfers *out*, and **dead Hardcore characters can transfer to another ruleset, including PvP**. See [[Systems]]. |
+| **Whether a separate Hardcore panel aired, and what it said** | **Closed (Tier 2, single-source).** It aired — Blizzard's schedule lists **"World of Warcraft Hardcore: What's Next"** at **4:15 pm PDT Sun 13 Sep = 09:15 Mon 14 Sep AEST**. It carried three items the Deep Dive did not: a **three-minute world-refresh countdown** with a move-now button (built for Hardcore, **shipping game-wide**, **testable in beta from 17 Sep**); **Hardcore-specific Legacy challenges**, with a death after **level 25** still earning a point; and an off-script **Mak'gora venue** tease with no date. **No official recap exists and Output Lag is the only outlet with post-panel material** — re-check. See [[Realms and Rulesets]]. |
+| **Whether Forever sits in a separate timeline from current WoW** | **Closed (Tier 1 content, single-outlet transcription).** Josh Greenfield: Forever *"does not exist in the same continuity as modern World of Warcraft"*; Chris Metzen calls it *"our little time bubble"*. **Caveat: from the Found Photographs panel, not the Deep Dive, and only Output Lag carries it.** It gives **no chronological placement** — see the residual item under Lore / structural. See [[Design Pillars]]. |
 | **Ion Hazzikostas's role in the panel** | **Closed (Tier 1).** The official What's Next recap names him in its presenter line — *"Senior Game Director Ion Hazzikostas, Lead Classic Designer Tim Jones, Lead Software Engineer Nora Mills, and Associate Production Director Clay Stone."* The 13 Sep pass missed a line in a source it had already cited. Which content was his is still unattributed. See [[Design Pillars]]. |
 
 ---
@@ -43,22 +56,28 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 - **Identity of the Barrow Deeps Demon Hunter prisoner** — unnamed by Blizzard. **Not mentioned at the Deep Dive panel.** (Note: this is a *lore prisoner*, not a playable class. See the contamination warning below.)
 - **Barrow Deeps entrance 3** — unlocated.
 - **Post-December content cadence** — nothing scheduled between 9 Dec and spring 2027.
+- **World buffs — entirely unaddressed.** **Checked 14 Sep** across both official recaps, the pre-purchase and "Carve a New Path" articles, all three post-BlizzCon interviews, every hands-on write-up, the Hardcore panel coverage and the Forever forum: **no mention of Rallying Cry of the Dragonslayer, Songflower Serenade, Warchief's Blessing, Dire Maul tribute, Spirit of Zandalar, the Darkmoon Faire buffs, or world buffs as a category.** Not confirmed, not removed, not discussed. A **conspicuous** silence given a panel segment each went to itemization, Camping buffs and baseline party buffs. **Onyxia's Lair is in the game on 9 Dec**, so the source encounter for the most valuable world buff exists; **Blackwing Lair is not announced**, so *Warchief's Blessing* has no source. Adjacent signals — campsite buffs not stacking with class buffs, party-buff talents going baseline, raid debuffs being de-stacked, the stated goal of "un-solving" solved builds — all lean toward **less** stacking, and none of them is evidence. Full reasoning in [[Systems|Systems § World buffs and the buff economy]] and [[Raids]]. **Partly checkable at beta:** the level-30 cap puts Onyxia and Dire Maul out of reach, but Songflower, the Darkmoon Faire buffs and the world-buff aura framework should be visible to datamining within days of 17 Sep.
 
 ### Sourcing gaps
+- **Which panel was which on Sunday 13 Sep.** Blizzard's schedule names the 10:00 am PDT slot **"World of Warcraft Forever: Evolving a Timeless World"**, but Blizzard's own recap of that content is titled **"Deep Dive Panel Recap"** — and the schedule *separately* lists **"World of Warcraft: Design Deep Dive" at 2:15 pm PDT**, which is a different panel. This vault, like every outlet, calls the 10:00 slot "the Deep Dive". **The naming is a live trap for future research** — see [[Sources and Confidence]].
+- **The graphics/rendering panel content is single-source and its slot label is contested.** MMO-Champion attributes a graphics panel (volumetric fog, god rays, dynamic shadows, global illumination replacing baked lighting, a new water shader; Darkshire and Raven Hill Cemetery as worked examples) to **"Evolving a Timeless World"** with presenters **Matt Heyman** (Lead Environment Artist) and **Jason Scott** (Lead Software Engineer). That **conflicts with Blizzard's own recap of the same time slot**, which credits Clay Stone, Josh Greenfield, Ana Resendez and Kris Zierhut for systems content. MMO-Champion is this vault's weakest source. **The rendering detail is plausible and matches [[Systems|Systems § Presentation]]; the panel attribution and the two names are not adopted.** Needs a second outlet.
 - **Official Blizzard level brackets for all nine dungeons.** Still third-party transcription only. **The Deep Dive recap contains no dungeon brackets either**, so both official recaps are now checked and neither has them. Beta on 17 Sep settles this.
-- **Riverglades level range** — three readings in circulation (mid-30s–mid-40s / 35–55 / ~40–55). See [[Zones]].
+- **Riverglades level range** — now **four** readings in circulation: mid-30s–mid-40s (Output Lag) / **30–45 (Blizzard Watch, added 14 Sep)** / 35–55 (wccftech) / ~40–55 (Warcraft Tavern). Four outlets, four answers, one slide. See [[Zones]].
 - **Beta end date** — official says 21 Oct, two roadmap write-ups read the slide as 22 Oct. See [[Roadmap]].
 - **Collector's Edition price and ship date** — \$150 / Nov 2026 both unverified. See [[Editions]].
 - **Which panel content was Ion Hazzikostas's.** His presence is now confirmed (see Closed, above); no outlet quotes him by name. See [[Design Pillars]].
 - **Timbermaw Hold** — appears in Warcraft Wiki's list of dungeon locations from promotional material, but no outlet counts it among the nine. Mislabelled Blackmaw Hold screenshot, or a tenth location? See [[Dungeons]].
 - **The "Primary" / "Secondary" talent tabs** — seen on stage, never explained. **Still open after the Deep Dive panel**, which covered talents at length and did not mention them; Output Lag notes the Secondary tab is shown **locked**. See [[Talent System]].
+- **How far the no-attunement rule extends.** **[Tier 2]** The new raids need **no attunement at launch**. Nothing was said about **Onyxia's Lair**, about later raids, or about whether the **spring 2027 new legendary questline** gates anything. Single-outlet. See [[Raids]].
+- **What triggers the Legacy Reward Track.** The official recap says accumulation **beyond the 16-point spend cap**; the show-floor hands-on says **total points spent**. Different mechanisms, same screen. See [[Systems]].
+- **Whether regional staggering applies to content unlocks.** **[Tier 2]** Hazzikostas describes *"staggered rollouts of our updates… across regions"*. If unlock times are staggered, the Sydney conversions in [[Roadmap]] hold for launch but not necessarily for patches. Nobody has asked.
 - **The 27 new 16-point talents.** The milestone is Tier 1 as of 14 Sep — a fourth gold-medal talent at 16 points in every tree — but **not one name was given**. See [[Talent System]].
 - **The new parry/dodge-reduction stat's name.** Massively OP alone calls it **expertise**; the official recap describes the effect unnamed. See [[Systems]].
 - **How many new race/class combinations there are.** The official Deep Dive recap names **six**; [[Races, Racials and Combos]] says "eight" and then lists six. Probably a counting error in this vault — prefer six until beta.
 - **"New underwater combat."** The official Undead racial text says *Underwater Breathing* applies to "old and new underwater combat". Nothing else anywhere mentions underwater combat changes.
 
 ### Lore / structural
-- **Whether Forever sits in a separate timeline from current WoW.** [REPORTED] Warcraft Wiki places it **after Warcraft III: Reforged's Forsaken Kingdom campaign but before the Molten Core raid**. That is a wiki editor's placement, not a Blizzard statement — **low authority, do not quote as fact.** Still open.
+- ~~**Whether Forever sits in a separate timeline from current WoW.**~~ **Closed 14 Sep** — see the table above. **The chronological placement inside that timeline is still open:** Warcraft Wiki places Forever **after Warcraft III: Reforged's Forsaken Kingdom campaign but before the Molten Core raid**, and that remains **a wiki editor's placement, not a Blizzard statement — low authority, do not quote as fact.** Confirming a separate continuity says nothing about *when* within it.
 - **Whether Shen'dralas and the Skyborne are one story.** The Shen'dorei / Shen'dralas / Shen'dralar name cluster is suggestive and unstated. See [[Skyborne]].
 
 ---
@@ -82,11 +101,16 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 >
 > Full write-up: **[[Deep Dive Panel 2026-09-14]]**.
 
-> [!note] The separate Hardcore-focused panel
-> The Out of Games live blog referenced a **separate Hardcore panel**. The Deep Dive itself
-> covered Hardcore as a ruleset, and Output Lag published Hardcore-specific Legacy detail from
-> it. Whether a distinct Hardcore panel also aired, and whether it carried anything the Deep
-> Dive did not, has **not** been established. Left open.
+> [!success] The separate Hardcore-focused panel — established 14 Sep
+> It aired: **"World of Warcraft Hardcore: What's Next"**, **4:15 pm PDT Sun 13 Sep = 09:15 Mon
+> 14 Sep AEST**, on Blizzard's published schedule — roughly **90 minutes before this capture**.
+> It **did** carry material the Deep Dive did not: the three-minute world-refresh countdown,
+> Hardcore-specific Legacy challenges with the level-25 rule, and a Mak'gora venue tease.
+>
+> **But: no official recap, and Output Lag is effectively the only outlet with post-panel
+> material this early.** That content is **Tier 2 single-source** and is the weakest-sourced block
+> in this vault's 14 Sep additions. Full capture and the re-check flag in
+> [[Realms and Rulesets]].
 
 ---
 
@@ -106,11 +130,21 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 > [!danger] "New Shaman and Warlock specs"
 > Fabricated MMO-Champion leak thread. Already documented in [[Sources and Confidence]].
 
-> [!danger] Wowhead's Forever talent data
-> Byte-for-byte identical to Classic Era — a placeholder, not Forever data. Already documented
-> in [[Sources and Confidence]].
+> [!info] ~~Wowhead's Forever talent data~~ — **entry retired 14 Sep 2026**
+> This warning read: *"Byte-for-byte identical to Classic Era — a placeholder, not Forever
+> data."* **That was accurate when checked and is now out of date.** Wowhead shipped real Forever
+> data on **13 Sep** (article 382870), sourced from the panels and testing sessions.
+>
+> **What replaces the warning:** Wowhead's calculator is **Tier 2 for talent names and
+> positions** and **explicitly unreliable for rank values** — Wowhead's own words are that rank
+> scaling *"is potentially wrong"*. Do not quote its rank-2+ numbers, for exactly the reason you
+> do not quote the extraction's.
+>
+> **Still true:** anyone citing a *pre-13-Sep* snapshot of that calculator is citing Classic Era.
+> See [[Talent System]] and [[Post-Panel Interviews 2026-09-14]].
 
 ---
 
-**Related:** [[Deep Dive Panel 2026-09-14]] · [[Verification Log 2026-09-13]] ·
+**Related:** [[Deep Dive Panel 2026-09-14]] · [[Post-Panel Interviews 2026-09-14]] ·
+[[Realms and Rulesets]] · [[Verification Log 2026-09-13]] ·
 [[Sources and Confidence]] · [[Roadmap]]

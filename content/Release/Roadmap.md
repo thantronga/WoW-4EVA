@@ -37,6 +37,19 @@ Blizzard's own caveat: exact release windows and content are **subject to change
 and Australia enters AEDT on **4 Oct**. So launch is genuinely PST (not PDT), and September
 events convert to **AEST** — not AEDT.
 
+> [!warning] An official Blizzard article contradicts itself on this — the table above is right
+> **[Tier 1, both sides]** Article **24302093** *("Carve a New Path with World of Warcraft:
+> Forever")* gives the launch as *"November 4 at 3:00 p.m. **PDT** globally"* in one place and
+> *"November 4, 2026, at 3:00 p.m. **PST**"* in another, **within the same article**. The
+> pre-purchase article (**24301508**) says **PST**.
+>
+> **PST is correct** — US daylight time ends 1 November 2026, so 4 November cannot be PDT, and
+> two of the three official mentions say PST. **This table stands.**
+>
+> The stakes are exactly one hour in Sydney: 3pm PST = **10:00 Thu 5 Nov AEDT**, whereas 3pm PDT
+> would be 09:00. Flagged here so nobody re-derives the conversion from the wrong sentence.
+> See [[Post-Panel Interviews 2026-09-14]].
+
 > [!warning] Correction — September conversions were mislabelled AEDT
 > An earlier note gave the Deep Dive panel as "3:00am Mon 14 Sep **AEDT**". The clock time is
 > right; the zone label is wrong. Sydney is on **AEST** until 4 October. The note's own DST
@@ -72,6 +85,20 @@ Deep-Dive-day roadmap piece still says **22 Oct**, so the outlet reading has not
 official date holds: **21 October**. Flagging because two independent outlets read 22, so the
 slide itself may say 22 and the article may be the one that is off by a day. Low stakes,
 worth a glance at beta's end.
+
+---
+
+## Regional rollout — updates will not land everywhere at once
+
+**[Tier 2]** In a post-BlizzCon interview, **Ion Hazzikostas** described *"staggered rollouts of
+our updates… across regions"*, reasoning that a globally simultaneous patch would put European
+servers *"offline from like 5 p.m. to 11 p.m."*
+
+**This matters for Sydney.** Every conversion on this page is derived from a **US** source time.
+If content unlocks are staggered by region, the APAC unlock for a post-launch patch is a separate
+scheduling decision and **may not track these conversions at all**. The 4 November **launch** was
+explicitly stated as global; the staggering claim is about **updates**. Detail in
+[[Post-Panel Interviews 2026-09-14]].
 
 ---
 

@@ -9,87 +9,79 @@ status: pre-beta
 Capture of the **World of Warcraft: Forever Deep Dive panel**, BlizzCon 2026.
 
 **Aired** Sunday 13 Sep 2026, **10:00 am PDT** = **03:00 Mon 14 Sep AEST**.
-**Captured** 14 Sep 2026, roughly eight hours after it aired.
 
 **Blizzard published an official recap** — [article 24303313](https://news.blizzard.com/en-us/article/24303313/world-of-warcraft-forever-deep-dive-panel-recap).
-That makes most of this panel **Tier 1**, which is a sharp change from the What's Next material,
-where the official recap was thin and the vault leaned on demo footage.
+That makes most of this panel **Tier 1**, a significant change for a vault that had been leaning
+on demo footage for almost everything granular.
 
-**Speakers credited by Blizzard:** Clay Stone (Associate Production Director), Josh Greenfield
-(Senior Game Designer), Ana Resendez (Lead Software Engineer), Kris Zierhut (Principal Game
-Designer). See the name-collision flag in [[Design Pillars]].
+> [!warning] Provenance of this note — read once
+> **Two scheduled capture runs fired for this panel and worked concurrently**, finishing minutes
+> apart on the morning of 14 Sep. Their merges into the topic notes largely agree and have been
+> combined; where they differed, the better-sourced version was kept.
+>
+> One casualty: **the first run's version of this Meta note was overwritten** by the second before
+> the collision was detected. Its content is reconstructed below from its own changelog entry and
+> from its surviving merges into the topic notes, which were **not** lost. If something here reads
+> as thinner than the topic notes it points to, **trust the topic note.**
+>
+> Both runs' distinct findings are preserved. The second run additionally established the
+> **separate Hardcore panel** and the **continuity statement**, neither of which the first had.
 
-> [!note] A naming wrinkle
-> Blizzard's schedule lists the 10:00 am Sunday Forever panel as **"World of Warcraft Forever:
-> Evolving a Timeless World"**. A separately titled **"World of Warcraft: Design Deep Dive"** ran
-> at 2:15 pm PDT and is **retail**, not Forever. Blizzard's own recap article nonetheless calls
-> the 10:00 am panel the **Deep Dive Panel**, and every outlet follows. This note uses "Deep Dive"
-> for the Forever panel.
+**Speakers credited by Blizzard for the Deep Dive:** Clay Stone (Associate Production Director),
+Josh Greenfield (Senior Game Designer), Ana Resendez (Lead Software Engineer), Kris Zierhut
+(Principal Game Designer). See the title-collision flag in [[Design Pillars]].
 
 ---
 
 ## The headline
 
 **Forever is realmless.** There is no server list. You pick a **ruleset** — Normal, PvP,
-Roleplaying, or **Hardcore** after launch — and each behaves as one large ecosystem. Characters
-get **two-part names** unique per region. Collections and Legacy Points are **account-wide across
-rulesets**, with Hardcore excepted.
+Roleplaying, or **Hardcore** after launch — and each behaves as a large ecosystem. Characters get
+**two-part names** unique per region. Collections and Legacy Points are **account-wide across
+rulesets**, with Hardcore enclosed and one-way.
 
-Nothing in this vault anticipated it. It has its own note: **[[Realms and Rulesets]]**.
+**Nothing in this vault anticipated it.** Full spec in [[Systems|Systems § Realmless Azeroth]];
+Hardcore and the Hardcore panel in [[Realms and Rulesets]].
 
 ---
 
 ## What the panel revealed
 
-### Camping — fully specified
-A Basic Campfire gives **vendors, repairs, profession workspaces and one-hour buffs**; you must
-sit a few moments to receive them. It supports **three crafted objects, one per player, on a
-shared one-hour cooldown**, learned from **profession skill 20**: Sharpening Wheel (Attack Power),
-Faction Banner (Spirit), Incense Candle (Intellect), Alchemy Lab, Tanning Rack. **Cooks** learn
-upgraded campfires holding **five or ten** objects. **[Tier 2]** Advanced blueprints drop from
-**dungeon bosses**. Detail in [[Systems]].
+**Camping — fully specified.** A Basic Campfire reimagines the Classic Cooking Fire: rest,
+vendors, repairs, profession workspaces, **one-hour buffs**. **Three crafted objects, each from a
+different player**, one per player on a one-hour cooldown, not stacking with class buffs. Level-20
+objects: Sharpening Wheel (Attack Power), Faction Banner (Spirit), Incense Candle (Intellect).
+**Dungeon-boss blueprints** unlock Alchemy Lab, Tanning Rack and **5-/10-object upgraded
+campfires**. **600+ new recipes**; crafted food grants a small XP bonus. → [[Systems]]
 
-### Legacy progression — numbers and perks
-**16 points spendable at launch**, **65 earnable**. Points are **account-wide**, **spent per
-character**, in three trees: **Professions, Adventure, Resourcefulness**. Named perks: *Well
-Rested*, *Bountiful Harvest*, *Reagent Economy*. A **Legacy Reward Track** pays cosmetics on
-lifetime points. Detail in [[Systems]]; the demo-build reading is in [[Talent System]].
+**Legacy progression — fully specified.** Legacy Points from Legacy Challenges; three trees
+(**Adventure, Professions, Resourcefulness**); named perks **Well Rested**, **Bountiful Harvest**,
+**Reagent Economy**. Points **shared across alts, spent per character**. **Launch cap 16; 65
+earnable.** Past the cap, a **Legacy Reward Track** gives cosmetics only. → [[Systems]]
 
-### Itemization and combat — the biggest genuinely new segment
-**Hit chance unified** across spell, melee and ranged; **crit chance unified** the same way;
-**weapon skill reduced on items**; **caster weapons now grant spell damage and healing**; **bonus
-healing carries one third as much bonus damage**; new **parry/dodge-reduction** items; trinkets
-pushed toward **situational** effects; environmental and creature-type bonuses; **hundreds of new
-dungeon drops**, unique boss items at **blue quality**, improved set bonuses, expanded quest
-rewards. Pacing target: an ordinary creature takes a solo player **10–15 seconds**. Detail in
-[[Systems]].
+**Combat and itemization — the biggest genuinely new segment.** Hit chance unified across spell,
+melee and ranged; crit unified the same way; weapon skill reduced on items; caster weapons now
+grant spell damage and healing; bonus healing carries a third as much spell damage; new
+parry/dodge-reduction items; situational trinkets; environmental and creature-type bonuses;
+hundreds of new dungeon drops; unique boss items at **blue quality**; expanded quest rewards.
+Pacing target: **10–15 seconds** to kill an ordinary creature solo. → [[Systems]]
 
-### Talents — structure confirmed, one real addition
-**Three trees, seven rows, one-point "gold medal" talents at 11 / 21 / 31 — plus a new fourth at
-16, in every tree.** Party-buff-only talents (*Improved Battle Shout*, *Divine Spirit*, *Blessing
-of Kings*, *Improved Mark of the Wild*) are **gone and baseline**. Stated goal: all **27 trees**
-viable for a group. Detail in [[Talent System]].
+**Talents — structure confirmed, one real addition.** Three trees, seven rows, one-point "gold
+medal" talents at **11 / 21 / 31**, plus a **new fourth at 16 in all 27 trees** — **none named**.
+Party-buff talents (*Improved Battle Shout*, *Divine Spirit*, *Blessing of Kings*, *Improved Mark
+of the Wild*) are gone and **baseline**. → [[Talent System]]
 
-### Paladin — a full worked example
-Roughly fifteen talents named officially, spec by spec. **Holy Strike** at level 6 (instant,
-Holy damage, 12s cooldown); **Consecration baseline at 20**; **Seal of Fury** for tanking with
-**Judgment taunting**; Judgment no longer consuming Seals. Detail in [[Paladin]].
+**Paladin — a full worked example.** Roughly twenty items named officially, spec by spec: Holy
+Strike at level 6; Consecration baseline at 20 with a four-target rule; Seal of Fury with
+Judgment taunting; Seals no longer consumed. → [[Paladin]]
 
-### Transmog — mechanics filled in
-Configure or fully disable at a **transmogrifier in certain cities**; **Classic Mode disables it
-automatically** at launch; **BoP Uncommon/Rare dungeon drops grant the appearance to every
-eligible looter**, while **Epic raid drops** grant it only to the binder; armour-type restrictions
-hold; level restrictions lift at 60. Detail in [[Systems]].
+**Transmog — mechanics filled in.** Configure or fully disable at a transmogrifier; Classic Mode
+disables it at launch; BoP Uncommon/Rare dungeon drops grant the appearance to **every eligible
+looter**; Epic raid drops only to the binder. → [[Systems]]
 
-### Professions
-**Over 600 new recipes** across professions and level ranges; cooking and fishing reworked to
-feed Camping.
-
-### Racials — the shape of the rework
-**Every race gets two actives and two passives**, actives of similar offensive power. Several
-previously demo-read Dwarf and Undead lines are now official — including two details this vault
-did not have: *Find Treasure* **stays active alongside other tracking**, and *Will of the
-Forsaken* **no longer grants immunity**. Detail in [[Races, Racials and Combos]].
+**Racials — the shape of the rework.** **Two actives and two passives per race.** Official Dwarf
+and Undead text, including two details the vault lacked: *Find Treasure* stays active alongside
+other tracking, and *Will of the Forsaken* **no longer grants immunity**. → [[Races, Racials and Combos]]
 
 ---
 
@@ -97,95 +89,101 @@ Forsaken* **no longer grants immunity**. Detail in [[Races, Racials and Combos]]
 
 | Vault said | Now | Where |
 |---|---|---|
-| **Hardcore runs on separate official realms** | **Wrong as stated — there are no realms.** Hardcore is a ruleset. The realm-count question is **moot, not answered**. | [[Realms and Rulesets]], [[Roadmap]] |
-| **Eight new core race/class combinations** | **Six.** The vault's own list had six; the count was an arithmetic error. Blizzard names the six and says more are planned. | [[Races, Racials and Combos\|Races and Combos]], [[Systems]] |
-| **65–66 Legacy Points — demo read 66** | **65.** Blizzard and five outlets say 65; **no source says 66**. The demo reading is kept, flagged, not erased. | [[Talent System]], [[Systems]] |
-| **"Seasonal cap of 16 Legacy Points"** | **"Seasonal" is the demo tooltip's word, not Blizzard's.** 16 is a **launch** cap that will rise. | [[Talent System]] |
-| **Consecration and Blessing of Kings "not seen in Forever"** | **Both are baseline**, not removed and not misread. Applies to buff talents across several classes. | [[Paladin]], [[Class Changes]] |
-| **Skyborne druid forms: four, in sky-blue** | Wowhead's dedicated article documents **three** (bear, cat, travel), **no moonkin, no colours**. Flagged as unverified, not overwritten. | [[Skyborne]] |
-| **Itemization "mentioned with no detail"** | Superseded — it got a full segment. | [[Class Changes]], [[Systems]] |
+| **Hardcore runs on separate official realms** | **Wrong as stated — there are no realms.** Hardcore is a ruleset. The realm-count question is **void, not answered**. | [[Systems]], [[Roadmap]], [[Realms and Rulesets\|Realms and Rulesets]] |
+| **Eight new core race/class combinations** | **Six** — the vault's own list already had six. Blizzard names them and says more are planned. | [[Races, Racials and Combos\|Races and Combos]] |
+| **Ion Hazzikostas "not verified" as a presenter** | **Wrong — he is named in the official What's Next recap's presenter line**, a source this vault had already cited. Which content was his is still unattributed. | [[Design Pillars]] |
+| **"The Legacy Tree is effectively empty"** | The demo build was simply **unfinished**. The trees have real, named contents. | [[Talent System]] |
+| **Skyborne druid forms: four, including moonkin** | Wowhead's dedicated article documents **three** — bear, cat, travel. **Moonkin downgraded to single-source.** | [[Skyborne]] |
+| **Itemization "mentioned with no detail"** | Superseded — it got a full segment. | [[Class Changes]] |
+
+**Conflicts recorded, not resolved:** Legacy total **65** (official) vs **66** (demo-read);
+**Nora Mills** vs **Ana Resendez** as Lead Software Engineer across the two official recaps;
+Sharpening Wheel giving **Attack Power** (official) vs **Strength** (Wowhead, Inven Global);
+**Seal of Fury** (official and three outlets) vs **Seal of Wrath** (Inven Global alone).
 
 ---
 
 ## What closed
 
-Moved into the Closed section of [[Open Questions]]:
-
-1. **Camping mechanics** — fully specified. **Tier 1.**
-2. **Legacy mechanics** — fully specified, with corrected numbers. **Tier 1.**
-3. **Hardcore ruleset** — answered: permanent death, enclosed, one-way progression outward,
-   post-launch, transfers out on death **including to PvP**. The **realm count** half is moot.
-4. **Whether Forever is a separate timeline** — **yes**, stated by Josh Greenfield. **Note: this
-   came from the Found Photographs panel, not the Deep Dive, and is single-outlet.** See
-   [[Design Pillars]].
+1. **Camping mechanics** — Tier 1, fully specified.
+2. **Legacy mechanics** — Tier 1, fully specified, numbers corrected.
+3. **Hardcore ruleset** — answered; the realm-count half is void.
+4. **Ion Hazzikostas's presence** — confirmed from the official What's Next recap.
+5. **Whether a separate Hardcore panel aired** — **yes**, 4:15 pm PDT, and it carried three items
+   the Deep Dive did not. → [[Realms and Rulesets]]
+6. **Whether Forever is a separate continuity** — **yes**. Josh Greenfield: Forever *"does not
+   exist in the same continuity as modern World of Warcraft"*; Chris Metzen's term is *"our little
+   time bubble."* **From the Found Photographs panel, not the Deep Dive, and single-outlet.** It
+   gives **no chronological placement**. → [[Design Pillars]]
 
 ---
 
 ## What stayed open
 
-- **The legendary reward.** A whole rewards panel, and it was not named. Blizzard's recap does not
-  mention a legendary at all. See [[Raids]].
-- **The Skyborne Restoration druid form.** Not mentioned; and the existing form list is now
-  *less* certain, not more.
-- **The Summer 2027 revamped iconic raid.** Still *"revamped iconic raid"*, unnamed.
+- **The legendary reward.** A full rewards panel, and Blizzard's recap **does not mention a
+  legendary at all**. → [[Raids]]
+- **Tier set contents.** Confirmed to exist; nothing about what is in them.
+- **The Skyborne Restoration form.** Unmentioned — and the existing form list is now *less*
+  certain, not more.
+- **The Summer 2027 revamped iconic raid.** Still unnamed.
 - **The Barrow Deeps Demon Hunter prisoner.** Still unnamed. Icy Veins speculates **Illidan** and
-  flags it unconfirmed — logged in [[Raids]] as one outlet's guess.
-- **Barrow Deeps entrance 3.** Nothing. A sourcing caveat on *entrance 2* is now noted in
-  [[Raids]].
-- **Official dungeon level brackets.** The recap contains **none**, again. Beta settles it.
-- **The "Primary" / "Secondary" talent tabs.** Not explained, and Output Lag still describes the
-  Secondary tab as **locked**. A full systems panel walked talent milestones one by one and never
-  mentioned a second page.
-- **Post-December content cadence.** Untouched.
-- **Beta end date** (21 vs 22 Oct), **Collector's Edition** price and ship date, **Riverglades**
-  level range, **Timbermaw Hold**, **Ion Hazzikostas's role** — all untouched.
+  flags it unconfirmed itself — logged in [[Raids]] as one outlet's guess, not adopted.
+- **Barrow Deeps entrance 3.** Nothing; and a sourcing caveat on *entrance 2* is now noted.
+- **Official dungeon level brackets.** **Both** official recaps are now checked and neither has
+  them. → [[Dungeons]]
+- **The "Primary" / "Secondary" talent tabs.** A panel that walked talent milestones one by one
+  never mentioned them. Output Lag notes the Secondary tab is shown **locked**.
+- **The names of the 27 new 16-point talents.** None given.
+- **The parry/dodge-reduction stat's name.** "Expertise" is the outlets' word, not Blizzard's.
+- **The talent point budget.** Still not stated; 51 remains an assumption.
+- **"New underwater combat."** The official Undead racial text says *Underwater Breathing* applies
+  to "old and new underwater combat". **Nothing else anywhere mentions it.**
+- **Post-December cadence**, **beta end date**, **Collector's Edition**, **Riverglades range**,
+  **Timbermaw Hold** — all untouched.
 
----
-
-## The Hardcore panel — same day, 4:15 pm PDT
-
-A separate **"World of Warcraft Hardcore: What's Next"** panel ran at **4:15 pm PDT Sun 13 Sep =
-09:15 Mon 14 Sep AEST**, about **90 minutes before this note was written**.
-
-> [!warning] Treat this section as provisional
-> There is **no official Blizzard recap** for the Hardcore panel, and **Output Lag is effectively
-> the only outlet with post-panel material** this early — published as short single-topic pieces,
-> while its own live post was still serving a pre-panel placeholder. Everything from it is
-> **Tier 2, single-source**. Re-check when other outlets publish.
-
-Content — the three-minute **world refresh warning** with a move-now button (Hardcore-motivated,
-**shipping game-wide**, **testable in beta from 17 Sep**), **Hardcore-specific Legacy challenges**,
-**a Legacy point still earned when a character dies after level 25**, and an off-script
-**Mak'gora venue** tease with no date — is recorded in [[Realms and Rulesets]].
+> [!info] Three of these moved later the same day, from outside this panel
+> Not from the Deep Dive. Captured in **[[Post-Panel Interviews 2026-09-14]]**:
+> the **timeline placement** is stated in Blizzard's own article 24302093 (*"after the events of
+> Warcraft III Reforged: Forsaken Kingdom and before Molten Core"*); **Riverglades** gained a
+> **fourth** reading (30–45) rather than a resolution; and post-BlizzCon interviews added
+> **no raid attunement at launch** and **fixed raid sizes, no flex scaling** — both Tier 2 and
+> single-outlet. The legendary, tier sets, the Restoration form, the 2027 raid, the prisoner,
+> entrance 3, the brackets and the Primary/Secondary tabs are **still** open after all of it.
 
 ---
 
 ## Method notes worth keeping
 
-**The extraction held up.** Twelve of the demo extraction's Paladin talent names matched
-Blizzard's official list exactly, and all four misses fell in trees the extraction had itself
-declared under-covered. The coverage table in [[Sources and Confidence]] was **accurate about its
-own blind spots** — which is the property that makes it usable.
+**The demo-footage extraction validated well.** Nineteen of the twenty items Blizzard named for
+Paladin were already in the extraction under the same names doing the same things — including four
+of the five Retribution talents, in the tree the extraction covered **worst**. One
+(*Infusion of Light*) was missed entirely; two names differ by a letter. **This validates talent
+names and rank-1 effects for one class. It does not validate ranks 2+**, which remain largely
+extrapolated. → [[Sources and Confidence]]
 
-**The vault's own arithmetic was the weakest link this round.** The "eight combinations" error was
-not a sourcing failure: the correct six were sitting in the table directly above the wrong total,
-and it propagated into a second note. **Check counts against the list they summarise.**
+**Where a demo build and an official statement disagree, keep both.** 66 versus 65, and "seasonal"
+versus "at launch", are recorded as flagged discrepancies. A show build can legitimately differ
+from shipped intent, and deleting the demo reading would destroy the record that they ever
+differed.
 
-**Where a demo build and an official statement disagree, both are kept.** 66 versus 65, and
-"seasonal" versus "at launch", are recorded as discrepancies with the official number leading.
-A demo build can legitimately differ from shipped intent, and erasing the demo reading would
-destroy the evidence that the two ever differed.
+**The 13 Sep lesson repeated.** Ion Hazzikostas was scored "unverified" while the answer sat in a
+source already cited in this vault. Twice now the failure has been **not re-reading an official
+article that was already on the shelf**.
 
-**One outlet correction did not happen.** No publication has reconciled its own "Hardcore realms"
-reporting from 12 Sep with the realmless reveal on 13 Sep. The contradiction is live in the public
+**The vault's own arithmetic was a weak link.** "Eight new race/class combinations" sat directly
+above a table listing six. **Check totals against the list they claim to summarise.**
+
+**One outlet correction did not happen.** No publication has reconciled its own 12 Sep "Hardcore
+realms" reporting with the 13 Sep realmless reveal. The contradiction is live in the public
 record; expect to meet the old claim again.
+
+**Two capture runs collided.** See the provenance warning at the top. The concurrency was not
+detected until the commit stage, and one Meta note was lost. Worth a look at the schedule before
+the 17 Sep beta capture.
 
 ---
 
-## Sources added
-
-All are listed in [[Sources and Confidence]] under the Deep Dive heading.
-
-**Related:** [[Realms and Rulesets]] · [[Systems]] · [[Talent System]] · [[Paladin]] ·
-[[Raids]] · [[Dungeons]] · [[Roadmap]] · [[Open Questions]] · [[Sources and Confidence]] ·
-[[Verification Log 2026-09-13]]
+**Related:** [[Post-Panel Interviews 2026-09-14]] · [[Systems]] · [[Realms and Rulesets]] ·
+[[Talent System]] · [[Paladin]] ·
+[[Races, Racials and Combos]] · [[Raids]] · [[Dungeons]] · [[Roadmap]] · [[Design Pillars]] ·
+[[Open Questions]] · [[Sources and Confidence]] · [[Verification Log 2026-09-13]]

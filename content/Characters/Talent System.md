@@ -95,9 +95,25 @@ Worth watching for from **17 September**, when the beta client makes this trivia
 Nothing official states the point total or the per-row unlock rule. What is known:
 
 - Wowhead's Forever talent calculator uses `maxTalentPoints = maxLevel - 9` (= **51**) and
-  `pointsRequiredPerRow: 5`. **But** Wowhead's Forever data endpoint is currently a byte-for-byte
-  copy of Classic Era — 27 trees, 432 talents, identical spell IDs and positions. It is a
-  placeholder, so its rules are Classic's rules, not evidence about Forever.
+  `pointsRequiredPerRow: 5`. **But** Wowhead's Forever data endpoint *was*, when checked, a
+  byte-for-byte copy of Classic Era — 27 trees, 432 talents, identical spell IDs and positions —
+  so those rules were Classic's rules, not evidence about Forever.
+
+  > [!important] Superseded 13 Sep 2026 — Wowhead's calculator now carries real Forever data
+  > Wowhead announced *"WoW: Forever Talent Calculator Now Live"* (article **382870**, 13 Sep):
+  > it is now built from **the BlizzCon panels and testing sessions**, not the Classic
+  > placeholder. **Wowhead's own caveat:** the data is *"mostly"* accurate but **"talent rank
+  > scaling is potentially wrong"**, and some new talents lack icons. It will be rebuilt by
+  > datamining once the beta client is out.
+  >
+  > **Score it Tier 2 for names and positions, unusable for rank values** — independently the
+  > same conclusion the community extraction reached. The point-total figures above are still
+  > **not** evidence: they may be carried-over defaults. Re-check the calculator's rules after
+  > 17 Sep rather than reading them as confirmation of 51 points.
+  >
+  > The **DO NOT FILE** warning about Wowhead's endpoint is **retired, not reversed** — an older
+  > snapshot of that calculator is still Classic Era data. See
+  > [[Post-Panel Interviews 2026-09-14]].
 - Trees are **7 rows × 4 columns**, same as Classic.
 - Trees are **denser than Classic**. Every Forever tree in the extraction has as many or more
   cells than its Classic counterpart, except Warrior Arms (17 vs 18) and Rogue Combat (17 vs
