@@ -90,6 +90,15 @@ than *announced by Blizzard* and a weaker claim again than *shipped*.
 
 ## The classes
 
+> [!important] The "Data quality" column below is out of date — 14 Sep 2026
+> It reflects the 13 Sep coverage of 434/470 cells. The extraction now publishes **469 of 470**;
+> only **one Mage Fire cell** was never hovered. **Read every "(N gaps)" and "Poor in X" entry
+> below as historical.** *Pyroblast* and *Adrenaline Rush* are both confirmed present;
+> *Elemental Mastery* is confirmed **absent** from a fully-read tree. Detail in
+> [[Community Extraction Update 2026-09-14]] and [[Sources and Confidence]].
+>
+> Coverage improved; **review did not**. Every record is still `reviewed: false`.
+
 | Class | New talents | Changed | Data quality | The headline |
 |---|---|---|---|---|
 | [[Warrior]] | 12 | 28 | Good (2 gaps) | Arms gets a Rage engine; Slam no longer breaks swing timer; 5 weapon-spec talents → 1 |
@@ -170,8 +179,13 @@ Holy Priest — changed least.
    extraction cannot absorb 51 points at the rank counts read, which is either a data error
    or evidence the rules changed.
 3. **Does Frostfire Bolt exist?** Mage's *Missile Barrage* names it; nothing else does.
-4. **Did Omen of Clarity, Pyroblast, Adrenaline Rush and Elemental Mastery survive?** All are
-   missing from the read data, all sit in trees with coverage gaps.
+4. ~~**Did Omen of Clarity, Pyroblast, Adrenaline Rush and Elemental Mastery survive?**~~
+   **Answered 14 Sep** at 469/470 coverage: **Pyroblast — yes** (Mage Fire). **Adrenaline
+   Rush — yes** (Rogue Combat). **Elemental Mastery — no**, absent from a fully-read Shaman
+   Elemental Combat, so a genuine removal. **Omen of Clarity — absent from every talent tree,
+   but present in the Druid Balance spellbook**, reworked to proc from *"spells and attacks"*
+   rather than melee only. [Tier 4] most simply explained as baseline; see
+   [[Baseline Ability Changes]]. Same pattern for **Nature's Grasp**.
 5. ~~**Itemization and tier sets** were mentioned in the panel with no detail.~~
    **Itemization answered 14 Sep** — merged hit and crit, weapon skill reduced per item,
    hundreds of new drops, new situational stats. See [[Systems]]. **Tier sets are still

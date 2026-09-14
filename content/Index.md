@@ -75,6 +75,7 @@ Full detail and Sydney conversions in [[Roadmap]].
 | [[Open Questions]] | What is still unknown, and the do-not-file contamination list. |
 | [[Deep Dive Panel 2026-09-14]] | The second BlizzCon panel: what it revealed, corrected and closed. **Read this before the older notes.** |
 | [[Post-Panel Interviews 2026-09-14]] | Developer interviews, show-floor hands-on, and the official article that finally dates the timeline. |
+| [[Community Extraction Update 2026-09-14]] | The community extraction at 469/470 talents plus a full spellbook dataset: five new abilities, and four fabricated names to avoid. |
 | [[Verification Log 2026-09-13]] | Full pre-Deep-Dive verification pass: six corrections. |
 | [[Changelog]] | Dated entries from the daily news-diff task. |
 

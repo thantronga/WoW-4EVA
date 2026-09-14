@@ -43,8 +43,11 @@ events convert to **AEST** — not AEDT.
 > *"November 4, 2026, at 3:00 p.m. **PST**"* in another, **within the same article**. The
 > pre-purchase article (**24301508**) says **PST**.
 >
-> **PST is correct** — US daylight time ends 1 November 2026, so 4 November cannot be PDT, and
-> two of the three official mentions say PST. **This table stands.**
+> **PST is correct** — US daylight time ends 1 November 2026, so 4 November cannot be PDT.
+> **[14 Sep, second check]** The **Collector's Edition** article (24302498) also says
+> *"November 4, 2026, at 3:00 p.m. PST"*, making it **three official PST mentions against one
+> PDT** — and the lone PDT is a second sentence inside an article whose other sentence says PST.
+> **This table stands.**
 >
 > The stakes are exactly one hour in Sydney: 3pm PST = **10:00 Thu 5 Nov AEDT**, whereas 3pm PDT
 > would be 09:00. Flagged here so nobody re-derives the conversion from the wrong sentence.
@@ -81,7 +84,11 @@ events convert to **AEST** — not AEDT.
 **Beta end date — conflict, official wins.** Blizzard's pre-purchase article and Warcraft
 Tavern both state the beta runs **17 Sep – 21 Oct 2026**. Icy Veins' and Blizzard Watch's
 roadmap write-ups both read the slide as **17 Sep – 22 Oct**. **[14 Sep]** Blizzard Watch's
-Deep-Dive-day roadmap piece still says **22 Oct**, so the outlet reading has not shifted. Per the source hierarchy the
+Deep-Dive-day roadmap piece still says **22 Oct**, so the outlet reading has not shifted.
+**[14 Sep, second check]** Blizzard's **Collector's Edition** article (**24302498**) independently
+states beta access runs *"September 17 through October 21 PDT"* — a **third** official mention of
+**21 October**, from a different article than the two already counted. The official side of this
+conflict is now 3–0; the outlet side is unchanged at 2. **21 October stands, more firmly.** Per the source hierarchy the
 official date holds: **21 October**. Flagging because two independent outlets read 22, so the
 slide itself may say 22 and the article may be the one that is off by a day. Low stakes,
 worth a glance at beta's end.

@@ -199,9 +199,25 @@ Three racials are now genuinely build-relevant rather than flavour:
 3. **Night Elf *Elune's Light*** is a 10% crit cooldown on a race previously chosen for dodge
    and Shadowmeld. That is a DPS racial on the Alliance's Druid/Hunter/Rogue race.
 
-**Data caveat:** the Undead race panel was never shown, so Undead trait *text* is inferred from
-the spellbook's General page listing rather than read from a tooltip. Troll's *Berserking* and
-Dwarf's remaining traits scrolled off screen in the frames available.
+> [!important] Corrected 14 Sep 2026 — the Undead panel *was* shown
+> The systematic races extraction found it at **05:23:40–05:24:20**, and again around
+> **03:15:06** and **03:45:02** — minutes the original 60-second probe grid stepped over. **All
+> four Undead racials were read from the box, with descriptions.** The spellbook General page
+> is now a cross-check, not the only source.
+>
+> Two smaller corrections from the same pass: **every race has exactly four traits except
+> Skyborne, which has five across its two variants — 37 in total**, not the "~45–55" first
+> estimated; and **Dwarf *Big Game Hunter*** and **Troll *Rapid Regeneration*** are confirmed
+> in the races data despite not being visible in the frames the first survey used.
+>
+> The Skyborne class split is **re-confirmed**: High Order (Alliance) plays Warrior, Hunter,
+> **Mage**, Rogue, Druid; Windshaper (Horde) plays Warrior, Hunter, Rogue, Druid, **Shaman**
+> and **not** Mage. See [[Community Extraction Update 2026-09-14]].
+
+**Data caveat (historical):** the Undead race panel was believed never to have been shown, so
+Undead trait *text* was inferred from the spellbook's General page listing rather than read
+from a tooltip. Troll's *Berserking* and Dwarf's remaining traits scrolled off screen in the
+frames available.
 
 ---
 
@@ -238,4 +254,5 @@ said *spells*; the demo tooltip says *attacks*. Minor, unresolved.
 zone between Mulgore and Desolace tied to the Shen'dralar highborne, and a new highborne-
 descended race — is unlikely to be coincidence. Not stated by Blizzard. See [[Skyborne]].
 
-**Related:** [[Skyborne]] · [[Verification Log 2026-09-13]] · [[Deep Dive Panel 2026-09-14]]
+**Related:** [[Skyborne]] · [[Verification Log 2026-09-13]] · [[Deep Dive Panel 2026-09-14]] ·
+[[Community Extraction Update 2026-09-14]]

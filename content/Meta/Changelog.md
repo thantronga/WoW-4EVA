@@ -100,3 +100,43 @@ Dated entries appended by the daily WoW Forever news-diff task. Newest at the bo
   presenter names are **MMO-Champion single-source with a slot label contradicting Blizzard's own
   recap**, so they are recorded and **not adopted**. World-buff Classic/Anniversary guides added to
   the contamination register.
+
+- **2026-09-14 (re-scan, ~14:15 AEST)** — Roughly three hours after the post-panel pass. **The
+  news cycle has gone quiet; next beat is beta on 17 Sep.** **One open question closed:** the
+  **Collector's Edition** is confirmed at **\$150.00 USD**, shipping **November 2026** — both
+  figures this vault carried as [REPORTED] were correct. Also now known: it is **sold out** on the
+  US Gear Store, which **ships only to North and South America**, and Blizzard directs
+  **Australia and New Zealand to "participating regional retailers"** (forum posters name
+  **EB Games** and **JB Hi-Fi**, unverified, no blue reply). Merged into [[Editions]] and
+  [[Open Questions]]. **Two conflicts shifted without closing:** the Collector's Edition article
+  gives a **third** official "**21 October**" beta end (official 3, outlets 2) and a **third**
+  official "**3:00 p.m. PST**" launch (3 PST vs 1 PDT) — both recorded in [[Roadmap]], which
+  already read them that way. **No change** to the single-source Hardcore-panel and graphics-panel
+  blocks — no outlet beyond Output Lag and MMO-Champion respectively has published, so both
+  re-check flags stand. **Nothing new** on world buffs, the legendary, tier sets, the Skyborne
+  Restoration form, the Summer 2027 raid, the Barrow Deeps prisoner, entrance 3, dungeon brackets
+  or the Primary/Secondary tabs.
+
+- **2026-09-14 (community extraction re-check)** — Re-checked the community extraction that
+  supplies almost all of this vault's Tier 3 class data. It has moved substantially. New note
+  [[Community Extraction Update 2026-09-14]]. **Talent coverage went from 434/470 to 469/470** —
+  only one Mage Fire cell was never hovered — which **retires the 36-gap table** in
+  [[Sources and Confidence]] and the "(N gaps) / Poor in X" column in [[Class Changes]].
+  **Answered:** *Pyroblast* present, *Adrenaline Rush* present, *Elemental Mastery* **absent
+  from a fully-read tree and therefore a genuine removal**; and *Infusion of Light* — the one
+  officially-named talent the machine had missed — is now in the Paladin data, making that
+  comparison **20 of 20**. **A whole dataset the vault lacked:** a systematic spellbook
+  extraction, **327 entries over 8 classes, 112 tooltips, 315 at confidence 1.0**, which adds
+  five abilities to [[Baseline Ability Changes]] — Shaman **Totemic Projection**, Warrior
+  **Victory Rush**, Warlock **Bane of Agony**, Druid **Revive** (an out-of-combat res Classic
+  Druids do not have, alongside Rebirth), Mage **Comprehend Scroll** — plus three more Classic
+  talents seen in spellbooks (**Tactical Mastery**, **Nature's Grasp**, **Omen of Clarity**).
+  **Corrections:** that note's "three entire classes have no baseline ability information" is
+  **one class — Priest**; Rogue and Warlock pages were both on screen. And
+  [[Races, Racials and Combos]]'s "the Undead race panel was never shown" is **wrong** — it is
+  at 05:23:40, with all four racials read from the box. **New contamination entry:** four
+  fabricated spell names from the extraction itself — Druid *Shapeshift*, Mage *Evocation
+  Dampen Magic*, Shaman *Reincarnation Passive*, Warrior *Rummel Whirlwind* — all confidence
+  0.0 and tagged `new` in the project's own inventory. **Not checked:** Reddit was unreachable
+  from this session, so the community-discussion layer remains uncovered, and the whole Tier 3
+  layer still rests on a single stream.

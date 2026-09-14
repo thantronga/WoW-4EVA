@@ -77,9 +77,31 @@ What that gets you and what it doesn't:
 | **Rank-1 tooltip text** | Mostly reliable. Two-reader agreement on nearly everything; **73 of 434 records** had a disagreement (usually one character — a dropped `%`, a comma read as a period). |
 | **Ranks 2+ values** | **Largely invented.** Xaryu hovered at rank 0, so only rank 1 was ever visible. **128 of 434 records** have ranks that were extrapolated linearly, copied from a similar Classic talent, or simply repeated. Do not quote any rank-2+ number. |
 | **Prerequisite arrows** | Partially read; the extraction's `requires` model covers talent prerequisites only. |
-| **Coverage** | **434 of 470 cells read. 36 were never hovered** and are simply unknown. |
+| **Coverage** | ~~434 of 470 cells read, 36 never hovered.~~ **Now 469 of 470.** See below. |
 
-**The 36 unread cells are not evenly spread.** They cluster badly:
+> [!important] Coverage superseded 14 Sep 2026 — 434/470 became 469/470
+> The project now publishes **all nine classes and 469 of 470 talents**. **Exactly one Mage
+> Fire cell** was never hovered on stream. **The 36-gap table below is historical.** Full detail
+> and the current tree sizes: [[Community Extraction Update 2026-09-14]].
+>
+> **Consequences for the class notes.** The caveat that the *"Classic talents not seen in
+> Forever"* lists are *"mostly just holes"* for Mage Fire and Rogue Combat **is retired for
+> eight of the nine classes** — those lists are now genuine removals almost everywhere.
+> Probed directly: **Pyroblast is present** (the vault's guess was right), **Adrenaline Rush is
+> present** (right again), **Combustion / Blast Wave / Ice Block are present**, and
+> **Elemental Mastery is absent from a fully-read Shaman Elemental Combat — a genuine
+> removal**, where before it was ambiguous.
+>
+> **The project also closed the one gap Blizzard exposed:** *Infusion of Light* is now in the
+> Paladin data. On 14 Sep this vault recorded it as the single officially-named talent the
+> machine had missed. The Paladin comparison is now **20 of 20**.
+>
+> **What has not improved:** ranks 2+ are still extrapolated, the data is still
+> **`reviewed: false` on every record**, and the project's own audit finds **68% of the 77
+> review-queue records wrong** (against 0 errors in 68 sampled confidence-1.0 records). More
+> coverage is not more review.
+
+**Historical — the 36 unread cells as of 13 Sep.** Kept so the change is visible:
 
 | Class | Never hovered | Where |
 |---|---|---|
@@ -91,11 +113,6 @@ What that gets you and what it doesn't:
 | Warlock | 1 | Demonology |
 | Druid | 1 | Restoration |
 | Hunter, Priest | **0** | complete |
-
-This is why the "Classic talents not seen in Forever" lists in each class note carry different
-weight. For **Hunter and Priest** those lists are genuine removals. For **Mage Fire** and
-**Rogue Combat** they are mostly just holes — *Pyroblast* and *Adrenaline Rush* almost
-certainly still exist.
 
 **Known transcription errors already identified by the project:**
 
@@ -184,6 +201,16 @@ premade UI settings, and the whole thing was a show floor build tagged
 - [World of Warcraft: Forever Deep Dive Panel Recap](https://news.blizzard.com/en-us/article/24303313/world-of-warcraft-forever-deep-dive-panel-recap) — Blizzard News *(added 14 Sep; the Tier 1 source for Camping, Legacy, realmless, transmog, itemization and the Paladin list)*
 - [World of Warcraft: Forever What's Next Panel Recap](https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap) — Blizzard News
 - [Pre-Purchase World of Warcraft: Forever Upgrades](https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth) — Blizzard News
+
+**Community extraction — re-checked 14 September 2026**
+- [Deradon/wow-forever-talent-calc](https://github.com/Deradon/wow-forever-talent-calc) — **now 469/470 talents plus a 327-entry spellbook dataset.** Status **"live, unreviewed"**; per-record provenance and crops; own consolidated review at `docs/reviews/2026-09-13-consolidated.md`. **Still Tier 3.**
+- [Forever Talent Calculator (site)](https://deradon.github.io/wow-forever-talent-calc/) — the published front end for the above.
+- [zockify.com — Forever Warlock](https://www.zockify.com/forever/warlock/) — **independent corroboration of Bane of Agony**, plus **Bane of Doom** and the "does not compete for the curse slot" reading. Its own source is stated as "the playable BlizzCon 2026 demo".
+
+**Editions and store — added 14 September 2026**
+- [Pre-Purchase the World of Warcraft: Forever Collector's Edition](https://news.blizzard.com/en-us/article/24302498/pre-purchase-the-world-of-warcraft-forever-collectors-edition) — Blizzard News. **Tier 1**; the Australia/NZ regional-retailer line, and a third official "21 October" beta end and "3:00 p.m. PST" launch.
+- [World of Warcraft: Forever Collector's Edition](https://gear.blizzard.com/products/wowccl0012-world-of-warcraft-forever-collectors-edition) — Blizzard Gear Store. **Tier 1 for the \$150.00 price, the November 2026 ship date, the sold-out status and the Americas-only shipping.** A live store listing, so **re-check rather than quote from memory** — stock and status change.
+- ['World of Warcraft: Forever' Collector's Edition: Unavailable for Australians](https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-collector%E2%80%99s-edition-unavailable-for-australians/2348020) — Blizzard forums. **Tier 4 — player reports only, no blue reply.** Source of the EB Games / JB Hi-Fi leads, which are **unverified**.
 
 **Panel schedule and additional panels — added 14 September 2026**
 - [Tune in to World of Warcraft at BlizzCon 2026 — September 12 and 13](https://news.blizzard.com/en-us/article/24302817/tune-in-to-world-of-warcraft-at-blizzcon-2026-september-12-and-13) — Blizzard News. **Tier 1 for the panel slate and the naming trap above.**
@@ -370,6 +397,12 @@ Consolidated in [[Open Questions]]. Verified still-correct on 13 Sep:
   classes and no Demon Hunters; its only Demon Hunter is an unnamed NPC prisoner in the Barrow
   Deeps.
 - **"New Shaman and Warlock specs"** — fabricated leak, documented above.
+- **Four fabricated spell names from the extraction itself** — Druid **Shapeshift**, Mage
+  **Evocation Dampen Magic**, Shaman **Reincarnation Passive**, Warrior **Rummel Whirlwind**.
+  Confidence 0.0; the reader invented them while a tooltip stood over the spell-list column,
+  and the project names them as the first records to delete. **They carry the tag `new` in the
+  project's generated inventory**, so anyone scraping that file without reading its caveats
+  will publish them as reveals. See [[Community Extraction Update 2026-09-14]].
 - **World buff material.** Searching world buffs returns **Classic / Anniversary-realm** guides
   (Wowhead, Overgear) and recent Anniversary news about an *Unrelenting Rallying Cry of the
   Dragonslayer*. **None of it is Forever.** Blizzard has said nothing about world buffs in
@@ -458,3 +491,33 @@ evidence in [[Systems|Systems § World buffs and the buff economy]] rather than 
 
 **The trap this search walks into:** every high-ranking result for "WoW world buffs" is Classic or
 Anniversary-realm content. Logged in the contamination register above.
+
+---
+
+## Re-scan — 14 September 2026, ~14:15 AEST
+
+About three hours after the post-panel pass. **The news cycle has gone quiet**; the next beat is
+**beta on 17 September**.
+
+**One open question closed.** The **Collector's Edition** — \$150.00 USD and a November 2026 ship
+date, both of which this vault had carried as [REPORTED] and both of which were right. The
+13 Sep note said *"check the Gear Store listing directly before relying on either"*; doing exactly
+that is what settled it. **A live store listing is a legitimate Tier 1 source for price and stock,
+and the only one that goes stale on its own — re-check it rather than quoting this note.**
+
+**Two conflicts moved without closing.** A third official mention of the **21 October** beta end
+(Collector's Edition article) puts the official side 3–2 ahead of the outlet readings; a third
+official **PST** launch mention puts that 3–1. Neither is settled by weight of mentions alone, but
+both now lean harder the way [[Roadmap]] already read them.
+
+**Nothing new on the single-source blocks.** No outlet other than Output Lag has published
+Hardcore-panel material, and the graphics-panel attribution is still MMO-Champion alone. **Both
+re-check flags stand.**
+
+**Nothing new at all on:** world buffs, the legendary, tier sets, the Skyborne Restoration form,
+the Summer 2027 raid, the Barrow Deeps prisoner, entrance 3, official dungeon brackets, or the
+Primary/Secondary talent tabs.
+
+**Method note.** This scan found its one real result in a *store page*, not in games coverage —
+after three passes of panel recaps, interviews and hands-on write-ups had all missed it. **When a
+question is commercial rather than editorial, go to the storefront.**

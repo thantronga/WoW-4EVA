@@ -115,6 +115,13 @@ Nothing official states the point total or the per-row unlock rule. What is know
   > snapshot of that calculator is still Classic Era data. See
   > [[Post-Panel Interviews 2026-09-14]].
 - Trees are **7 rows × 4 columns**, same as Classic.
+> [!important] Coverage is now 469/470 — 14 Sep 2026
+> The figures in this section were written at 434/470. Current published tree sizes, all nine
+> classes: Warrior 54 (17/18/19) · Mage 53 +1 unread (18/16/19) · Priest 53 (18/17/18) ·
+> Rogue 53 (17/17/19) · Druid 52 (17/19/16) · Paladin 52 (18/16/18) · Warlock 52 (17/19/16) ·
+> Hunter 50 (16/16/18) · Shaman 50 (16/18/16). **469 total, one Mage Fire cell never hovered.**
+> See [[Community Extraction Update 2026-09-14]].
+
 - Trees are **denser than Classic**. Every Forever tree in the extraction has as many or more
   cells than its Classic counterpart, except Warrior Arms (17 vs 18) and Rogue Combat (17 vs
   19). Totals: **470 cells across nine classes**, versus 432 in Classic Era.
@@ -227,4 +234,5 @@ asked about it. *(Partly answered 14 Sep — see the callout above.)*
 ---
 
 **Related:** [[Class Changes]] · [[Baseline Ability Changes]] ·
+[[Community Extraction Update 2026-09-14]] ·
 [[Sources and Confidence]] · [[Deep Dive Panel 2026-09-14]] · [[Systems]]
