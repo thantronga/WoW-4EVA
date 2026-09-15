@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, talents, systems]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -180,6 +180,24 @@ current seasonal cap of **16 Legacy Points** in total."* Three categories with n
 
 **Every other node read "Unknown — To be added in future patch content."** So the Legacy Tree
 is real but effectively empty in the demo build.
+
+> [!success] Five more Profession Legacy nodes, named and statted — added 15 Sep
+> Xouper's scrape supplies five further Professions-tree nodes beyond Bountiful Harvest above —
+> the first real content this vault has seen for this tree beyond the one node Blizzard named
+> directly. Xouper's own "+20%" figure for Bountiful Harvest matches the vault's read exactly,
+> which is the corroboration for treating the rest of this list as reliable:
+>
+> - **Working Overtime** (5 ranks) — +4% tradeskill skill-up chance across Primary, Secondary and
+>   class tradeskills.
+> - **Performance Bonus** — 5% chance of +100% Merchant's Favor on an eligible crate turn-in.
+> - **Luremaster** — 25% chance of an extra fish while a lure is active.
+> - **Master Chef** — 10% chance of an additional Cooking result.
+> - **Dedicated Study** — 25s cast, 23-hour cooldown: +1 to your lowest Primary/Secondary
+>   tradeskill, or 2–4 random Elemental Essences if everything is already at 300.
+>
+> This doesn't resolve whether the *rest* of the Legacy trees (Adventure, Resourcefulness) are
+> still placeholder — no information on those arrived with this scrape. Single-source, not yet
+> independently verified. See [[Xouper Cross-Reference 2026-09-15]].
 
 > [!important] Upgraded to Tier 1 at the Deep Dive panel — 14 Sep 2026
 > The demo build was simply unfinished; the trees have real, named contents. Blizzard confirmed

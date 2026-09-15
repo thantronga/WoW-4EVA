@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, meta, changelog]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -140,3 +140,84 @@ Dated entries appended by the daily WoW Forever news-diff task. Newest at the bo
   0.0 and tagged `new` in the project's own inventory. **Not checked:** Reddit was unreachable
   from this session, so the community-discussion layer remains uncovered, and the whole Tier 3
   layer still rests on a single stream.
+
+- **2026-09-14 (sourcing review)** — Tested which community sources this task can actually reach
+  and ranked them for accuracy. New note [[Sourcing Playbook]]. **Reachable:** Blizzard news and
+  the Gear Store, the Blizzard forums, **bluetracker.gg** (current to ~35 min — the best
+  monitoring surface for official comment), **GitHub raw** (the highest-value community source,
+  and how the 469/470 talent and 327-entry spellbook data were read), Warcraft Wiki, and
+  **Twitch clip metadata**. **Not reachable:** Reddit (blocked three ways), Twitch VODs and
+  directory pages. **Intermittent:** YouTube (HTTP 429, rate-limited rather than blocked).
+  **Named the streamer VODs nobody has mined** — the *Creator Showcase (No Commentary)* capture,
+  Esfand's day-2 Deep Dive stream, and a first-impressions video — which are the only route to
+  breaking the vault's single-stream dependency on Xaryu's day-1 footage. **New contamination
+  entry:** *"Project Camelot"* is **not** a Blizzard-confirmed internal codename — Warcraft Wiki
+  asserts it uncited, while the real provenance is pre-announcement **datamining** (goldgoblin,
+  11 Sep, which also correctly predicted the Heroic and Epic editions). A worked example of a
+  wiki laundering a datamined rumour into a flat assertion. **New corroboration route:** Blizzard
+  clips its own panels on Twitch — a 60-second clip titled *"WoW Forever continuity discussion"*
+  (13 Sep) independently establishes that segment happened, though clip audio cannot be read, so
+  the quote stays Tier 2. Cross-noted in [[Sources and Confidence]] and [[Open Questions]].
+
+- **2026-09-15 (daily news check)** — **Three real finds, and one of them is actionable before
+  Thursday.** The news cycle produced nothing at all dated 15 Sep; everything below was published
+  **13–14 Sep** and **this vault had missed all of it**.
+
+  **1. There is a FREE beta opt-in, and this vault said there wasn't. [Tier 2 — four independent
+  outlets]** Anyone can opt in on Blizzard's own Forever page, sign in, press the opt-in button.
+  It is **chance-based**, invites go out **in waves**, and nothing is guaranteed. Pre-purchase
+  (**Epic \$59.99** / **Collection \$79.99**) remains the only *guaranteed* route.
+  [[Editions]]'s **"beta trap"** section said *"if the goal is beta on 17 Sep, the entry price is
+  \$59.99"* — that is now **half right**: \$59.99 buys certainty, **\$0 buys a ticket.** Section
+  rewritten. Carried by **Wowhead** and **Icy Veins** (13 Sep) and **MMO-Champion** and
+  **Blizzard Watch** (14 Sep). **Not Tier 1:** Blizzard published **no dedicated opt-in article**,
+  and its Forever page is JavaScript-rendered and **could not be read from this session** — the
+  button itself is unverified here. Also new: **beta progress is wiped** and **beta characters
+  will most likely not carry over**; the arrival signal is an **email** or the **Forever beta
+  client appearing in the Battle.net launcher**.
+
+  **2. The Hardcore panel finally has a second source — for some of it. [Tier 2]** Warcraft Tavern
+  (14 Sep, Luxrah) published its own Hardcore-panel write-up, which was **the weakest-sourced
+  block in the 14 Sep additions** and carried an explicit re-check flag. **Now corroborated:** the
+  **world-refresh safety check shipping across all versions**, the **Mak'gora "dedicated space"**
+  tease (**Josh Greenfield**, named by both), **Hardcore arriving after launch**, and **death
+  transferring a character to another ruleset**. **Still Output Lag alone:** the **three-minute**
+  duration, the **"move now" button**, **Hardcore-specific Legacy challenges**, the
+  **level-25-death-still-earns-a-point** rule, and **"testable in beta from 17 Sep"** — the four
+  most specific claims are the four nobody else printed. **New from Warcraft Tavern:**
+  special-effect dungeon items meant to make dungeon runs worth the risk for Hardcore players, and
+  Legacy described as *particularly* useful there. [[Realms and Rulesets]],
+  [[Sources and Confidence]], [[Open Questions]].
+
+  **3. Add-ons are not being removed — a topic this vault had zero words on. [Tier 2]** Ion
+  Hazzikostas, in a Warcraft Tavern exclusive interview (14 Sep, Mila Grish): *"We didn't remove
+  add-ons, and we're not removing add-ons from the game"*, and *"millions of players use add-ons
+  today, and that has not changed."* Phrased as a **denial**, which implies a circulating claim to
+  the contrary that this vault never recorded either. New section
+  [[Systems|Systems § Add-ons]]. Single-outlet, but a named developer on the record.
+
+  **4. First named bosses of any Forever dungeon. [Tier 3 — hands-on]** Warcraft Tavern ran
+  **The Drowned City** on the show floor: **Zul'Alai** (first boss; enrages near death, heavy AoE)
+  and **Zin'aka** (second, higher level, *"far deadlier"*). Mobs are **Makrura, small crabs, Risen
+  Undead Troll Sentries and Naga in tight packs**; the layout is compared to **Zul'Farrak and the
+  Sunken Temple** — linear, then opening out. **Bracket conflict, and the vault wins:** the article
+  says **35–45** where this vault has **35–40** from several outlets, and Warcraft Tavern is
+  *already* the flagged bracket outlier in [[Dungeons]]. **Table unchanged.**
+
+  **5. [Tier 4 — no blue reply]** A Collector's Edition support thread has multiple buyers
+  reporting the **beta code by email about an hour after purchase** (often in promotions), with the
+  **full-game code in a separate envelope with the physical box, available on or before 31 Dec
+  2026**. A forum **moderator** replied only to point at the Gear Store. Recorded in
+  [[Editions]]; unverified.
+
+  **Nothing new on:** world buffs, the legendary, tier sets, the Skyborne Restoration form, the
+  Summer 2027 raid, the Barrow Deeps prisoner, entrance 3, official dungeon brackets, or the
+  Primary/Secondary talent tabs. **Nothing on 15 Sep at all.** Next beat is **17 Sep** — beta opens
+  **and** the **Live Q&A** runs at 10:00 am PDT (**03:00 Fri 18 Sep AEST**), already in
+  [[Roadmap]].
+
+  **Method note.** Every one of these five items predates the vault's own last pass. The gap was
+  not that the news hadn't been published — it was that four passes in one day all worked the
+  **panel → interview → hands-on** seam and **nobody re-checked the outlets' plain how-to-play
+  coverage**, which is where the free opt-in was sitting the whole time. **Beta-week equivalent:
+  check the boring pages too.**

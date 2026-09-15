@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, races, racials]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -79,10 +79,23 @@ Warlock, Undead Paladin — plus ten Skyborne combinations.
 **Undead Paladin is the one to flag.** It was **not** observed on screen: the Undead race panel
 never appeared in the demo footage. It is reported by multiple outlets, and Blizzard reportedly
 revealed it via a **new cinematic**. Confident, but sourced differently from the rest.
+**Lore attribution, added 15 Sep:** Xouper's scrape traces the Undead Paladin lore to *Warcraft
+III: Forsaken Kingdom* — not previously in this vault. Single-source. See
+[[Xouper Cross-Reference 2026-09-15]].
 
 Combos *not* confirmed either way: Tauren Priest, Tauren Paladin, Dwarf Mage, Night Elf Paladin.
 One Wowhead summary mentions **Night Elf Paladin**; no other source does and the demo class bar
 does not show it. Treat as unconfirmed.
+
+> [!info] Two new details from the Xouper scrape, added 15 Sep
+> - **Not every class for every race:** Xouper states plainly that *"Blizzard says Forever will
+>   NOT simply unlock every class for every race."* This is a clean explicit statement of
+>   something this vault previously only implied via "more are said to be planned for future
+>   updates" above.
+> - **Dwarf Shamanism:** Xouper references unspecified new lore explaining Dwarf Shamanism, not
+>   previously recorded anywhere in this vault. No detail beyond the mention itself.
+>
+> Both single-source. See [[Xouper Cross-Reference 2026-09-15]].
 
 ---
 

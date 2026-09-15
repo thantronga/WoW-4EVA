@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, systems, realms, hardcore]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -60,12 +60,29 @@ realms — see the correction in [[Roadmap]] and in [[Systems]].
 > **4:15 pm PDT Sunday 13 Sep = 09:15 Mon 14 Sep AEST** — about **90 minutes before this note was
 > written**. Three items below come from it and appear nowhere in the Deep Dive coverage.
 
-> [!warning] Treat this section as provisional — single-source and very fresh
-> **Blizzard published no recap for the Hardcore panel**, and **Output Lag is effectively the only
-> outlet with post-panel material** this early, published as short single-topic pieces while its
-> own live post was still serving a pre-panel placeholder. Everything here is **Tier 2,
-> single-source**. Re-check once other outlets publish — this is the weakest-sourced block in the
-> vault's 14 Sep additions.
+> [!warning] Partly corroborated 15 Sep — but the four most specific claims are still one outlet
+> **Blizzard published no recap for the Hardcore panel.** On 14 Sep, **Output Lag was the only
+> outlet with post-panel material**, and this whole block carried a re-check flag.
+>
+> **[15 Sep] A second outlet has now published.** Warcraft Tavern's *"World of Warcraft Forever
+> Was Designed With Hardcore in Mind"* (14 Sep, Luxrah) covers the same panel independently.
+>
+> **Corroborated by both** — promote these out of single-source:
+> - the **world-refresh safety check**, and that it **applies to all versions of the game**, not
+>   just Hardcore;
+> - the **Mak'gora "dedicated space"** tease, attributed by both to **Josh Greenfield**;
+> - **Hardcore arrives after launch**, not at launch;
+> - **on death, a character can transfer to another ruleset** (PvE, PvP or RP).
+>
+> **Still Output Lag alone** — the re-check flag stands on exactly these:
+> - the **three-minute** countdown duration and the **"move now" button**;
+> - the **Kris Zierhut** quotes;
+> - **Hardcore-specific Legacy challenges** as a distinct feature;
+> - the **death-after-level-25-still-earns-a-point** rule;
+> - **"testable in the beta from 17 September"**.
+>
+> The pattern is worth noting: the second outlet confirmed the *shape* of every item and **none of
+> the numbers**. Beta on 17 Sep settles the world-refresh claims directly.
 
 **[Tier 2 — Output Lag]**
 
@@ -92,6 +109,20 @@ do not apply there.
 **A death after level 25 still earns a Legacy point.** Zierhut frames it as *"a softer landing
 after a Hardcore death"* — the next run starts with slightly more rested experience and gathering.
 The Legacy system itself is in [[Systems]]; its demo-build reading is in [[Talent System]].
+
+### Two items only Warcraft Tavern reported
+
+**[Tier 2 — Warcraft Tavern, 15 Sep]** Its write-up adds two design-intent points absent from
+Output Lag's coverage:
+
+- **Special-effect items** are meant to *"make the payoff for running dungeons more appealing"* —
+  framed specifically at Hardcore players, for whom a dungeon is a risk rather than a routine.
+  This connects to the Deep-Dive itemization pass in [[Systems|Systems § Combat and itemization]]
+  and to the unique-boss-items-raised-to-rare change in [[Dungeons]].
+- **Legacy is described as *particularly* useful to Hardcore players** — consistent with, and
+  slightly stronger than, the Hardcore-specific-challenges claim below.
+
+Neither is a mechanic, and neither has a number attached. Filed as design intent.
 
 ### Mak'gora — a tease, not an announcement
 
@@ -125,8 +156,12 @@ Hardcore, Mak'gora is a permanent-death duel — the loser's character is gone.
 > **[Tier 2]** Hazzikostas has since floated bringing surnames to **retail**, *"depending on how
 > that plays out and how players feel about that in Forever"* — which frames them as a deliberate
 > experiment, not merely a fix for a realmless world's naming problem.
-- **Whether other outlets corroborate the Hardcore panel content above.** As of writing, none had
-  published.
+- ~~**Whether other outlets corroborate the Hardcore panel content above.**~~ **Partly answered
+  15 Sep.** Warcraft Tavern published independently and confirmed the world-refresh system's
+  game-wide scope, the Mak'gora tease, the after-launch timing and the death-transfer rule.
+  **What remains open is narrower and sharper:** whether *any* second source confirms the
+  **three-minute** duration, the **"move now" button**, the **level-25** Legacy rule, or
+  **"testable in beta from 17 September"**. See the corroboration box above.
 
 ---
 

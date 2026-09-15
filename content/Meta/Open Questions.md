@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, meta, open-questions]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -59,6 +59,8 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 - **World buffs — entirely unaddressed.** **Checked 14 Sep** across both official recaps, the pre-purchase and "Carve a New Path" articles, all three post-BlizzCon interviews, every hands-on write-up, the Hardcore panel coverage and the Forever forum: **no mention of Rallying Cry of the Dragonslayer, Songflower Serenade, Warchief's Blessing, Dire Maul tribute, Spirit of Zandalar, the Darkmoon Faire buffs, or world buffs as a category.** Not confirmed, not removed, not discussed. A **conspicuous** silence given a panel segment each went to itemization, Camping buffs and baseline party buffs. **Onyxia's Lair is in the game on 9 Dec**, so the source encounter for the most valuable world buff exists; **Blackwing Lair is not announced**, so *Warchief's Blessing* has no source. Adjacent signals — campsite buffs not stacking with class buffs, party-buff talents going baseline, raid debuffs being de-stacked, the stated goal of "un-solving" solved builds — all lean toward **less** stacking, and none of them is evidence. Full reasoning in [[Systems|Systems § World buffs and the buff economy]] and [[Raids]]. **Partly checkable at beta:** the level-30 cap puts Onyxia and Dire Maul out of reach, but Songflower, the Darkmoon Faire buffs and the world-buff aura framework should be visible to datamining within days of 17 Sep.
 
 ### Sourcing gaps
+- **Whether "Project Camelot" was ever a real internal codename.** Warcraft Wiki asserts it uncited; the provenance is **pre-announcement datamining** (goldgoblin, 11 Sep), not a Blizzard statement. **Tier 4.** Checkable if a codename surfaces in a beta build string. See [[Sourcing Playbook]].
+- **Whether the Blizzard Twitch clip corroborates the continuity quote verbatim.** A 60-second clip titled *"WoW Forever continuity discussion"* exists on **Blizzard's own channel**, dated 13 Sep — which independently establishes the segment happened, but clip *audio* cannot be read from this task, so the quote itself stays Tier 2 single-outlet. See [[Sourcing Playbook]].
 - **Community reaction and non-Xaryu demo footage.** The entire Tier 3 layer rests on **one stream** (Xaryu's BlizzCon day-1). If a second demo stream exists it would be independent corroboration of the whole tier, and nobody appears to have looked. Separately, **Reddit was unreachable on 14 Sep** — direct fetches blocked by the site, the browser pane refuses reddit.com, and a domain-filtered search was rejected upstream — so **no community-discussion layer has been checked at all.** See [[Community Extraction Update 2026-09-14]].
 - **Which panel was which on Sunday 13 Sep.** Blizzard's schedule names the 10:00 am PDT slot **"World of Warcraft Forever: Evolving a Timeless World"**, but Blizzard's own recap of that content is titled **"Deep Dive Panel Recap"** — and the schedule *separately* lists **"World of Warcraft: Design Deep Dive" at 2:15 pm PDT**, which is a different panel. This vault, like every outlet, calls the 10:00 slot "the Deep Dive". **The naming is a live trap for future research** — see [[Sources and Confidence]].
 - **The graphics/rendering panel content is single-source and its slot label is contested.** MMO-Champion attributes a graphics panel (volumetric fog, god rays, dynamic shadows, global illumination replacing baked lighting, a new water shader; Darkshire and Raven Hill Cemetery as worked examples) to **"Evolving a Timeless World"** with presenters **Matt Heyman** (Lead Environment Artist) and **Jason Scott** (Lead Software Engineer). That **conflicts with Blizzard's own recap of the same time slot**, which credits Clay Stone, Josh Greenfield, Ana Resendez and Kris Zierhut for systems content. MMO-Champion is this vault's weakest source. **The rendering detail is plausible and matches [[Systems|Systems § Presentation]]; the panel attribution and the two names are not adopted.** Needs a second outlet.
@@ -79,6 +81,24 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 - **The new parry/dodge-reduction stat's name.** Massively OP alone calls it **expertise**; the official recap describes the effect unnamed. See [[Systems]].
 - **How many new race/class combinations there are.** The official Deep Dive recap names **six**; [[Races, Racials and Combos]] says "eight" and then lists six. Probably a counting error in this vault — prefer six until beta.
 - **"New underwater combat."** The official Undead racial text says *Underwater Breathing* applies to "old and new underwater combat". Nothing else anywhere mentions underwater combat changes.
+
+### Added 15 Sep
+- **Whether Forever changes what add-ons are allowed to do.** **[Tier 2]** Ion Hazzikostas has
+  denied outright that add-ons are being **removed** — *"We didn't remove add-ons, and we're not
+  removing add-ons from the game."* **Nobody has asked the harder question:** whether the API is
+  *restricted* — combat automation, boss timers, damage meters — in a game whose stated aim is to
+  *"un-solve solved builds"*. Denial of removal is not a statement of parity. See
+  [[Systems|Systems § Add-ons]].
+- **Whether the free beta opt-in is confirmable at Tier 1.** Four outlets describe a chance-based
+  opt-in button on Blizzard's own Forever page; **Blizzard published no article about it**, and the
+  page is **JavaScript-rendered and unreadable from this task**. The mechanism is almost certainly
+  real and is **not** Tier 1 in this vault. **Anyone with a browser can close this in ten seconds.**
+  See [[Editions]].
+- **Boss names for the other eight dungeons.** The Drowned City now has two (**Zul'Alai**,
+  **Zin'aka**) from one hands-on session. **No other dungeon has a single named boss**, and no
+  official source names any. See [[Dungeons]].
+- ~~**Whether the beta has a free entry route**~~ — **CLOSED 15 Sep (Tier 2).** It does. See
+  [[Editions]]. Recorded here because this vault previously asserted the opposite.
 
 ### Lore / structural
 - ~~**Whether Forever sits in a separate timeline from current WoW.**~~ **Closed 14 Sep** — see the table above. **The chronological placement inside that timeline is still open:** Warcraft Wiki places Forever **after Warcraft III: Reforged's Forsaken Kingdom campaign but before the Molten Core raid**, and that remains **a wiki editor's placement, not a Blizzard statement — low authority, do not quote as fact.** Confirming a separate continuity says nothing about *when* within it.
@@ -111,9 +131,12 @@ Full detail in [[Deep Dive Panel 2026-09-14]].
 > It **did** carry material the Deep Dive did not: the three-minute world-refresh countdown,
 > Hardcore-specific Legacy challenges with the level-25 rule, and a Mak'gora venue tease.
 >
-> **But: no official recap, and Output Lag is effectively the only outlet with post-panel
-> material this early.** That content is **Tier 2 single-source** and is the weakest-sourced block
-> in this vault's 14 Sep additions. Full capture and the re-check flag in
+> **[15 Sep] A second outlet has now published** — Warcraft Tavern, independently. It confirms the
+> **world-refresh system's game-wide scope**, the **Mak'gora tease** (Josh Greenfield), the
+> **after-launch timing**, and the **death-transfer-to-another-ruleset** rule. It does **not**
+> confirm the **three-minute** duration, the **"move now" button**, the **Hardcore-specific Legacy
+> challenges**, the **level-25** rule, or **"testable in beta from 17 Sep"** — **the numbers are
+> still Output Lag alone.** Full capture and the narrowed re-check flag in
 > [[Realms and Rulesets]].
 
 ---

@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, systems, features]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -413,6 +413,30 @@ the most important world buff is in the game on 9 December. Anything beyond that
 Onyxia and Dire Maul are out of reach, but the **Songflower** spawns in Felwood, the **Darkmoon
 Faire** buffs and the world-buff aura framework are all things datamining should expose within
 days of the client landing. Tracked in [[Open Questions]].
+
+---
+
+## Add-ons
+
+**[Tier 2 — Warcraft Tavern exclusive interview, 14 Sep, Mila Grish]** **Add-ons stay.**
+**Ion Hazzikostas**, asked directly:
+
+> "We didn't remove add-ons, and we're not removing add-ons from the game."
+
+and:
+
+> "millions of players use add-ons today, and that has not changed."
+
+**Note the shape of that.** It is a **denial**, twice over — which means a claim that Forever
+removes add-ons was circulating enough to be put to the game director. **This vault had recorded
+neither the claim nor the denial**, and had **no add-on coverage of any kind** before 15 Sep.
+
+**What this does and does not settle.** It settles that the add-on **API is not being removed**.
+It says **nothing** about whether the API is *unchanged* — no statement exists on whether Forever
+restricts what add-ons may do (combat automation, boss timers, damage meters), which is the
+question that actually matters for a game whose stated goal is to *"un-solve solved builds"*
+(see [[Design Pillars]]). **Single-outlet, but a named developer on the record.** Do not stretch
+it past what he said.
 
 ---
 

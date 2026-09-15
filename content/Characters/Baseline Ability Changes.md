@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, abilities, spells]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -46,7 +46,7 @@ level 38, and the absence of a high-level spell means nothing.
 | Warlock   | **Bane of Agony**         | **New — added 14 Sep.** Ranks 1–4, 05:18:41, confidence 1.0. Spellbook confirmation of the Curse→Bane rename that [[Class Changes]] records as a talent pattern. Corroborated independently by zockify.com, which also names **Bane of Doom**. |
 | Druid     | **Revive**                | **New — added 14 Sep.** 607 Mana, 30 yd, 10 sec cast. *"Brings a dead player back to life with 300 health and 520 mana. Cannot be cast when in combat."* Restoration tab, 05:48:59, confidence 1.0. **Rebirth is listed separately at rank 2 on the same page.** |
 | Mage      | **Comprehend Scroll**     | **New — added 14 Sep.** 5 yd, Instant. *"Decipher an untranslating scroll."* General tab, 06:08:39, confidence 1.0. "untranslating" is probably a misread of *untranslatable*. Reads as quest/profession utility; no other context exists.   |
-| Warrior   | **Tactical Mastery**      | **Added 14 Sep.** A Classic Arms *talent*, appearing in the Forever Arms spellbook page. **Not evidence it is baseline** — see the caution below.                                                                                            |
+| Warrior   | **Tactical Mastery**      | **Resolved 15 Sep.** Confirmed baseline: retains 10 Rage on stance swap. The Arms talent *Improved Tactical Mastery* (5 ranks) adds up to an additional **+15 Rage** on top (25 total) — source: Xouper scrape, see [[Xouper Cross-Reference 2026-09-15]]. This also matches the vault's own rank-1 linear extrapolation for Improved Tactical Mastery (5 × 3 Rage = 15) exactly. Full detail in [[Warrior]].                                                                                            |
 | Druid     | **Nature's Grasp**        | **Added 14 Sep.** Classic Balance talent, in the Forever Balance spellbook at rank 4 — **and absent from every talent tree** in a 469/470 read. See the caution below.                                                                       |
 | Druid     | **Omen of Clarity**       | **Added 14 Sep.** Classic Feral talent, in the Forever Balance spellbook — **and absent from every talent tree.** The tooltip is also reworked: procs from *"spells and attacks"*, not melee only, with an explicit *Wrath* exclusion.       |
 
@@ -63,6 +63,39 @@ level 38, and the absence of a high-level spell means nothing.
 >
 > **Blessing of Kings is the control case:** in a spellbook, and Blizzard stated at the Deep
 > Dive that it *is* baseline. Where Tier 1 existed, the inference held.
+>
+> **Tactical Mastery is now resolved, 15 Sep** — see the row above. Xouper's scrape independently
+> states the baseline Rage-retention number and separately validates the vault's own linear
+> extrapolation for the *Improved Tactical Mastery* talent, closing this one specifically.
+> **Nature's Grasp and Omen of Clarity remain open** — nothing in this cross-reference touched
+> either.
+
+## Warrior and Hunter base-ability changes not previously recorded
+
+Confirmed **14 Sep** for Priest, Paladin, Mage, Shaman, Hunter and Druid above; the following
+were added **15 Sep** from the Xouper scrape (see [[Xouper Cross-Reference 2026-09-15]]) and cover
+Warrior and Hunter base abilities (not talents) that had no prior entry anywhere in the vault.
+
+| Class   | Ability          | What was seen                                                                                                                                                                                    |
+| ------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Warrior | **Thunder Clap** | Now usable in Defensive Stance (unusable there in Classic). Attack-speed slow 10% → 20%. Duration 30s → 22s.                                                                                    |
+| Warrior | **Shield Wall**  | The base ability, distinct from the *Improved Shield Wall* talent. Cooldown 30 min → 15 min. Damage reduction 75% → 60%. Duration 10s → 12s. Appears to no longer share the old Retaliation lockout. |
+| Warrior | **Shield Block** | Duration 5s → 7s; blocks 1 → 2. 75% block chance unchanged.                                                                                                                                      |
+| Hunter  | **Traps**        | Cooldown 15s → 30s. The old "out of combat only" restriction wording is gone. Tooltip implies one Fire trap and one Frost trap may now be active simultaneously — **in-combat placement still needs beta confirmation**, per Xouper's own framing, not just the vault's. |
+
+**Source: [[Xouper Cross-Reference 2026-09-15]].** Not independently verified against demo footage by this vault — single-source, Xouper's own tier tags apply.
+
+## Shaman base-ability and weapon-imbue changes
+
+Also added **15 Sep** from the same source. Neither of these is a talent, so neither would ever
+have shown up in [[Shaman]]'s talent diff.
+
+| Ability                            | What was seen                                                                                                                                                                                                        |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lightning Bolt / Chain Lightning** | Base cast times 0.5s faster than Classic.                                                                                                                                                                            |
+| **Windfury Weapon** (rank 1)         | 90 Mana, 20% proc chance, 2 extra attacks at +103 melee AP. Enchant duration now **60 minutes** (up from 5). **A main-hand Windfury Weapon enchant disables your own Windfury Totem benefit.**                       |
+
+**Source: [[Xouper Cross-Reference 2026-09-15]].** Single-source, not independently verified against demo footage.
 
 ---
 

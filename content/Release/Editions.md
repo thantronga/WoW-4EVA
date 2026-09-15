@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, editions, pricing]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -20,13 +20,40 @@ upgrades, not standalone purchases.
 
 ---
 
-## The beta trap
+## The beta trap — and the free route past it
 
 Worth being explicit because it catches people: **the \$29.99 Heroic Pack does not include
-beta access.** Blizzard's own pre-purchase page states "Does not include beta access". Beta is
-**Epic (\$59.99) and above only**.
+beta access.** Blizzard's own pre-purchase page states "Does not include beta access". Paid beta
+is **Epic (\$59.99) and above only**.
 
-So if the goal is beta on 17 Sep, the entry price is **\$59.99**, not \$29.99.
+> [!success] Correction 15 Sep — there is a free opt-in, and this section previously denied it
+> This section used to end *"if the goal is beta on 17 Sep, the entry price is **\$59.99**"*.
+> **That is wrong as written.** \$59.99 is the price of **guaranteed** beta access. **A free
+> opt-in exists**, so the price of a **chance** is **\$0**.
+>
+> **[Tier 2 — four independent outlets]** Opt in on **Blizzard's own Forever page**
+> (`worldofwarcraft.blizzard.com/en-us/forever`): sign in, press the **opt-in button**. Then:
+>
+> - **Selection is chance-based.** Icy Veins: *"Blizzard picks participation in game testing at
+>   random."* Wowhead calls it *"a chance at Beta access"*.
+> - **Invites arrive in waves**, so opting in on day one does not mean playing on day one.
+> - **The arrival signal** is an **email**, or the **Forever beta client appearing in the
+>   Battle.net launcher** (Blizzard Watch).
+> - **Pre-purchase is still the only guarantee** — Epic (\$59.99) or Collection (\$79.99) give
+>   *"guaranteed access to the beta for the entire duration."*
+> - **Nothing you do in beta lasts.** Progress is wiped, and **beta characters will most likely
+>   not carry over** to launch.
+>
+> **Why this is Tier 2 and not Tier 1.** Blizzard published **no dedicated opt-in article** — the
+> mechanism is a button on a page, not a news post. Its Forever page is **JavaScript-rendered and
+> could not be read from this task**, so the button has **not** been verified directly here; the
+> four outlets are the evidence, and they agree. **Check the page yourself before relying on it.**
+>
+> Sources: **Wowhead** (13 Sep, article 382860), **Icy Veins** beta page (13 Sep),
+> **MMO-Champion** (14 Sep), **Blizzard Watch** (14 Sep).
+
+So: **\$0 for a lottery ticket, \$59.99 for a seat.** Given the Collector's Edition is sold out
+and will not ship to Australia anyway, the free opt-in is the only no-cost route to 17 September.
 
 ---
 
@@ -66,7 +93,15 @@ and Invite-A-Friend codes.
 
 **Note the beta implication.** The CE includes the Collection code, so it **does** include beta
 access — unlike the \$29.99 Heroic Pack. But it is **sold out** on the only store that lists a
-price, so it is not a route to beta by 17 September.
+price, so it is not a route to beta by 17 September. **The free opt-in above is.**
+
+> [!note] How CE codes reportedly arrive — [Tier 4, no blue reply]
+> **[15 Sep]** A Blizzard forum support thread (*"World of Warcraft Forever Collector's Edition -
+> Beta Access"*) has **multiple buyers reporting the beta code by email roughly an hour after
+> purchase**, often landing in the promotions folder — and the **full-game code in a
+> separately-provided envelope with the physical box**, redeemable **on or before 31 December
+> 2026**. **There is no blue reply**; a forum **moderator** responded only to direct CE questions
+> to the Gear Store. Treat as buyer reports, not policy.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags: [wow-forever, dungeons, content]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
@@ -121,6 +121,38 @@ What the panel did add, all **[Tier 1]** and all about dungeon *rewards* rather 
 > gives a headline count of **"Dungeons (10 total)"** while listing **nine**, leaves **Hall of
 > Thanes** and **City of Dalaran** with no bracket at all, and names two dungeons differently
 > ("City of Dalaran", "Excavation Site"). Its own count contradicts its own list.
+
+---
+
+## The Drowned City — first named bosses of any Forever dungeon, 15 Sep
+
+**[Tier 3 — hands-on, single outlet]** Warcraft Tavern ran the dungeon on the BlizzCon show floor
+and published a preview with screenshots (14 Sep, Nevermore). **These are the first boss names
+recorded for any of the nine.**
+
+| Boss | Order | What was observed |
+|---|---|---|
+| **Zul'Alai** | First | **Enrages near death**; heavy **AoE** attacks. |
+| **Zin'aka** | Second | **Higher level** than Zul'Alai and *"far deadlier"*. |
+
+- **Mob composition:** **Makrura**, small **crabs**, **Risen Undead Troll Sentries**, and **Naga
+  in tight packs**. The undead trolls are worth noting — they fit the risen-troll-ruins premise
+  Nora Mills described, so the hands-on and the panel agree on the theme.
+- **Layout:** compared to **Zul'Farrak** and the **Sunken Temple** — a linear opening path that
+  **opens into a large space** deeper in.
+- **Loot:** nothing reported.
+
+> [!warning] The same article contradicts this table's bracket — keep the table
+> It gives The Drowned City as **"35-45"**. This table says **35–40**, carried by multiple
+> outlets. **Warcraft Tavern is already this note's flagged bracket outlier** (see the cross-check
+> box above: a headline count that contradicts its own list, two dungeons left with no bracket at
+> all, two renamed). **35–40 stands.** Recording the discrepancy because it is the second
+> independent instance of the *same* outlet being wrong about brackets specifically while being
+> useful about everything else — which is a usable rule: **take its screenshots, not its numbers.**
+
+Both names are **unverified by any second source** and come from a single hands-on session.
+Beta on 17 Sep puts this dungeon's 35–40 bracket out of reach of a level-30 cap, so **these names
+may not be checkable until launch.**
 
 ---
 

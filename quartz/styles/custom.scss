@@ -1,3 +1,179 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ============================================================================
+// Retint the active "@quartz-themes/default" theme's accent from its stock
+// purple to WoW Forever gold.
+//
+// That theme package defines --accent-h/--accent-s/--accent-l once (in its
+// "base" aspect) and derives --secondary, --tertiary, --link-color,
+// --tag-color, --interactive-accent, the properties-panel pill colour, etc.
+// all from those three variables. quartz.config.yaml's own theme.colors
+// block sets --secondary/--tertiary too, but at lower CSS specificity
+// (:root[saved-theme="dark"]) than the theme package's own rule
+// (:root:root[saved-theme="dark"]), so the theme package wins and the site
+// looks purple regardless of quartz.config.yaml. Overriding just the three
+// accent-h/s/l levers here, at higher specificity than the theme package,
+// recolours everything derived from them without fighting each derived
+// variable individually. (Values: light ≈ hsl(42, 69%, 29%) / dark ≈
+// hsl(46, 65%, 55%), i.e. the same gold as quartz.config.yaml's secondary.)
+html:root:root {
+  --accent-h: 42;
+  --accent-s: 69%;
+  --accent-l: 29%;
+}
+
+html:root:root[saved-theme="dark"] {
+  --accent-h: 46;
+  --accent-s: 65%;
+  --accent-l: 55%;
+}
+
+// ============================================================================
+// WoW Forever theme flourishes
+// Kept deliberately light — this is a wiki people need to read, not a fan
+// poster. Colour does the work; icons and dividers are small accents.
+// ============================================================================
+
+// Small gold accent under the page's main heading instead of nothing at all.
+.page article > h1 {
+  position: relative;
+  padding-bottom: 0.6rem;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 4.5rem;
+    height: 3px;
+    border-radius: 2px;
+    background: linear-gradient(90deg, var(--secondary), rgba(255, 255, 255, 0));
+  }
+}
+
+// Tag chips — small pill badges instead of plain underlined "#tag" text.
+a.internal.tag-link {
+  background-color: color-mix(in srgb, var(--secondary) 14%, rgba(255, 255, 255, 0));
+  border: 1px solid color-mix(in srgb, var(--secondary) 30%, rgba(255, 255, 255, 0));
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.85em;
+  font-weight: $semiBoldWeight;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--secondary) 22%, rgba(255, 255, 255, 0));
+  }
+}
+
+// Section dividers (a plain "---" in a note) get a small diamond marker
+// instead of a bare grey line.
+article hr {
+  position: relative;
+  background: none;
+  border-top: 1px solid var(--lightgray);
+
+  &::after {
+    content: "\25C6";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--light);
+    padding: 0 0.75rem;
+    color: var(--secondary);
+    font-size: 0.75rem;
+  }
+}
+
+// ----------------------------------------------------------------------------
+// Evidence-tier callouts — matches the four-tier system in
+// "Sources and Confidence.md". Usage: > [!tier1] / [!tier2] / [!tier3] / [!tier4]
+// Tier 1 = Blizzard official, Tier 2 = multiple outlets, Tier 3 = demo
+// footage read by a vision model, Tier 4 = inference.
+// ----------------------------------------------------------------------------
+.callout {
+  --callout-icon-tier1: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 4 5v6c0 5 3.5 9 8 11 4.5-2 8-6 8-11V5z"></path><path d="m9 12 2 2 4-4"></path></svg>');
+  --callout-icon-tier2: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"></circle><path d="M2 20c0-3.5 3-6 7-6s7 2.5 7 6"></path><circle cx="17" cy="9" r="2.5"></circle><path d="M16 14c2.8.3 5 2.4 5 5"></path></svg>');
+  --callout-icon-tier3: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7Z"></path><circle cx="12" cy="12" r="3"></circle></svg>');
+  --callout-icon-tier4: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2 2M16.4 16.4l2 2M18.4 5.6l-2 2M7.6 16.4l-2 2"></path><circle cx="12" cy="12" r="2.5"></circle></svg>');
+
+  &[data-callout="tier1"] {
+    --color: #b8862c;
+    --border: #b8862c55;
+    --bg: #b8862c12;
+    --callout-icon: var(--callout-icon-tier1);
+  }
+
+  &[data-callout="tier2"] {
+    --color: #4779a8;
+    --border: #4779a855;
+    --bg: #4779a812;
+    --callout-icon: var(--callout-icon-tier2);
+  }
+
+  &[data-callout="tier3"] {
+    --color: #c07a2e;
+    --border: #c07a2e55;
+    --bg: #c07a2e12;
+    --callout-icon: var(--callout-icon-tier3);
+  }
+
+  &[data-callout="tier4"] {
+    --color: #8a7ba8;
+    --border: #8a7ba855;
+    --bg: #8a7ba812;
+    --callout-icon: var(--callout-icon-tier4);
+  }
+}
+
+// ----------------------------------------------------------------------------
+// Class-colour text — usage: <span class="wow-class warrior">Warrior</span>
+// Colours match WoW's own class-colour palette. (Priest's official colour is
+// pure white, which is unreadable on a light page, so it's substituted with
+// a readable pale neutral here.)
+// ----------------------------------------------------------------------------
+.wow-class {
+  font-weight: $semiBoldWeight;
+
+  &.death-knight {
+    color: #c41f3b;
+  }
+  &.demon-hunter {
+    color: #a330c9;
+  }
+  &.druid {
+    color: #ff7d0a;
+  }
+  &.evoker {
+    color: #33937f;
+  }
+  &.hunter {
+    color: #aad372;
+  }
+  &.mage {
+    color: #3fc7eb;
+  }
+  &.monk {
+    color: #00c98a;
+  }
+  &.paladin {
+    color: #f48cba;
+  }
+  &.priest {
+    color: #a89f8c;
+  }
+  &.rogue {
+    color: #c9b400;
+  }
+  &.shaman {
+    color: #0070dd;
+  }
+  &.warlock {
+    color: #8788ee;
+  }
+  &.warrior {
+    color: #c69b6d;
+  }
+}

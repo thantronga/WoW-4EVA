@@ -1,12 +1,17 @@
 ---
 tags: [wow-forever, meta, sources]
-updated: 2026-09-14
+updated: 2026-09-15
 status: pre-beta
 ---
 
 # Sources and Confidence
 
 Read this before quoting anything from these notes elsewhere.
+
+> [!info] Where to *look* is a separate question from what to believe
+> **[[Sourcing Playbook]]** records which community sources are reachable from the scheduled
+> task (tested 14 Sep), the named streamer VODs nobody has mined yet, and how to rank community
+> sources. This note stays the authority on **tiers**.
 
 ---
 
@@ -249,19 +254,29 @@ premade UI settings, and the whole thing was a show floor build tagged
 - [10 big World of Warcraft Forever details from BlizzCon](https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/) — PC Gamer
 - [Tune in to World of Warcraft at BlizzCon 2026](https://news.blizzard.com/en-us/article/24302817/tune-in-to-world-of-warcraft-at-blizzcon-2026-september-12-and-13) — Blizzard News. The panel schedule; the source for the Hardcore panel's 4:15 pm PDT slot.
 
-**Hardcore panel — 13 Sep, 4:15 pm PDT. Single-outlet; flagged for re-check.**
+**Hardcore panel — 13 Sep, 4:15 pm PDT. Two outlets as of 15 Sep; the numbers are still one.**
 - [WoW Forever warns you three minutes before the world refreshes around you](https://outputlag.com/news/world-of-warcraft-forever-warns-you-three-minutes-before-the-world-refreshes-around-you/) — Output Lag
 - [WoW Forever's Hardcore could get a dedicated space for Mak'gora duels](https://outputlag.com/news/world-of-warcraft-forevers-hardcore-could-get-a-dedicated-space-for-makgora-duels/) — Output Lag
+- [World of Warcraft Forever Was Designed With Hardcore in Mind](https://www.warcrafttavern.com/forever/news/world-of-warcraft-forever-was-designed-with-hardcore-in-mind/) — Warcraft Tavern, 14 Sep, Luxrah. **[Added 15 Sep — the second source.]** Corroborates the world-refresh check **applying game-wide**, the **Mak'gora** tease (**Josh Greenfield**), **Hardcore after launch**, and **death-transfer to another ruleset**. **Sole source for** the Hardcore-facing special-effect dungeon items. **Does not carry** the three-minute duration, the "move now" button, the Zierhut quotes, the Legacy-challenge specifics, the level-25 rule, or "testable in beta from 17 Sep".
 
 **Other BlizzCon panels**
 - [WoW Forever runs in its own continuity, separate from modern WoW](https://outputlag.com/news/world-of-warcraft-forever-runs-in-its-own-continuity-separate-from-modern-wow/) — Output Lag. **From the "Found Photographs" panel, not the Deep Dive.** Single-outlet; the source for the separate-continuity confirmation in [[Design Pillars]].
 
-> [!warning] Source concentration risk — noted 14 Sep
-> **Output Lag is now the sole source for three separate claims in this vault**: the entire
+> [!warning] Source concentration risk — noted 14 Sep, **narrowed 15 Sep**
+> **Output Lag was the sole source for three separate claims in this vault**: the entire
 > Hardcore panel, the locked Secondary talent tab, and the separate-continuity statement. It has
 > been the most reliable third-party outlet through both panels, which is why the claims were
 > accepted — but **three load-bearing items resting on one outlet is a concentration worth
 > watching.** Re-check each when other outlets publish.
+>
+> **[15 Sep] One of the three has thinned, not cleared.** Warcraft Tavern published its own
+> Hardcore-panel write-up, so the panel **as an event** and its **broad claims** now have two
+> independent sources. But **every number and every quote is still Output Lag alone** — the
+> three-minute countdown, the "move now" button, the Zierhut lines, the level-25 rule, the
+> beta-testability claim. **The concentration moved from "the whole panel" to "all of the
+> specifics", which is a smaller exposure but a more load-bearing one**, because the specifics are
+> what this vault's notes actually assert. **Still outstanding at one outlet each:** the locked
+> Secondary talent tab, and the separate-continuity statement.
 >
 > Also noted: **Out of Games published no locatable Deep Dive or Hardcore coverage**, and its
 > domain is **outof.games**, not outofgames.com. **wccftech and wowtbc.gg published no Deep Dive
@@ -397,6 +412,12 @@ Consolidated in [[Open Questions]]. Verified still-correct on 13 Sep:
   classes and no Demon Hunters; its only Demon Hunter is an unnamed NPC prisoner in the Barrow
   Deeps.
 - **"New Shaman and Warlock specs"** — fabricated leak, documented above.
+- **"Project Camelot" as a Blizzard-confirmed codename.** Warcraft Wiki asserts, uncited, that
+  *"Internally, it was referred to as Camelot."* The actual provenance is **pre-announcement
+  datamining** — goldgoblin (11 Sep) reports it as a datamined internal designation and states
+  outright that Blizzard had announced nothing at that point. **Tier 4, not Tier 1.** Worth
+  watching: an internal codename could surface in a beta build string, as the demo build tag
+  `blizzcon-demo-2026-09-12` did. Worked example in [[Sourcing Playbook]].
 - **Four fabricated spell names from the extraction itself** — Druid **Shapeshift**, Mage
   **Evocation Dampen Magic**, Shaman **Reincarnation Passive**, Warrior **Rummel Whirlwind**.
   Confidence 0.0; the reader invented them while a tooltip stood over the spell-list column,
@@ -521,3 +542,45 @@ Primary/Secondary talent tabs.
 **Method note.** This scan found its one real result in a *store page*, not in games coverage —
 after three passes of panel recaps, interviews and hands-on write-ups had all missed it. **When a
 question is commercial rather than editorial, go to the storefront.**
+
+---
+
+## Scan notes — 15 September 2026
+
+**Nothing was published on 15 Sep.** Wowhead's Forever RSS ends at **14 Sep 00:06** (the Day 2
+roundup). The Blizzard news feed, the blue tracker, MMO-Champion and Warcraft Tavern produced no
+Forever item dated 15 Sep. The only WoW post of the day is **Venomous Abyss raid tuning**, which is
+modern WoW.
+
+**The three real finds were all 13–14 Sep material this vault had missed**, and they came from
+three different *kinds* of page:
+
+| Find | Where it was sitting | Why four earlier passes missed it |
+|---|---|---|
+| **Free beta opt-in** | Outlets' **how-to-play / beta explainer** pages | Every pass worked the panel → interview → hands-on seam. Nobody read the boring pages. |
+| **Hardcore second source** | A **rival outlet's** panel write-up, a day later | The 14 Sep passes ran hours after the panel, before Warcraft Tavern published. Correctly flagged; just needed time. |
+| **Add-ons denial** | A **single-outlet exclusive interview** | Not in any recap, and add-ons were not on this vault's question list at all. |
+
+**Two method lessons, both about coverage shape rather than sourcing.**
+
+1. **The "entry price" error was self-inflicted.** [[Editions]] asserted a **\$59.99 floor** for
+   beta. No source said that; the vault **inferred** it from the Heroic Pack's "does not include
+   beta access" line and then stated the inference as fact. **A negative on one product is not a
+   negative on all routes.** The free opt-in had been live and covered by four outlets for two days.
+2. **Warcraft Tavern's reliability is domain-specific, and the pattern now has two instances.**
+   It is **wrong about level brackets twice** (its dungeon round-up, and now The Drowned City's
+   35–45 against the table's 35–40) while being **the only source** for the realmless layering
+   detail, the Hardcore second-source corroboration, the Ion add-ons quote, and the first boss
+   names in the game. **Workable rule: take its observations and its quotes; distrust its numbers.**
+
+**Unreachable this pass.** Blizzard's Forever page (`worldofwarcraft.blizzard.com/en-us/forever`)
+is **JavaScript-rendered**; WebFetch returns only metadata and the browser pane redirected to the
+site root, so **the opt-in button could not be verified at Tier 1**. Reddit remains unchecked.
+
+**Nothing new at all on:** world buffs, the legendary, tier sets, the Skyborne Restoration form,
+the Summer 2027 raid, the Barrow Deeps prisoner, entrance 3, official dungeon brackets, or the
+Primary/Secondary talent tabs.
+
+**Next beat: 17 September** — the beta build opens **and** the **Live Q&A** runs at 10:00 am PDT
+(**03:00 Fri 18 Sep AEST**). The world-refresh countdown is the single most checkable Hardcore-panel
+claim; the dungeon brackets below level 30 become checkable too.
